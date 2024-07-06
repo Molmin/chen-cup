@@ -26,6 +26,7 @@ jobs:
         cd ..
     - name: Move Files
       run: |
+        mkdir dist
         mv datas dist/datas
         mv src/assets/ui.css dist/ui.css
         mv src/dist/ui.js dist/ui.js
