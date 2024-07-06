@@ -1,0 +1,2926 @@
+A,对称博弈,500
+B,基础构造练习题,700
+C,区间问题 xor,700
+D,区间问题 XOR,1000
+E,区间问题 max,1500
+F,区间问题 gcd,2000
+G,国家的扩张，城市的划分,2400
+H,【模板】多项式乘法,2500
+zlj6699tt,A,106000,0,Runtime Error
+袁瑞擎,A,147000,20,Wrong Answer
+wuxian,A,164000,20,Wrong Answer
+lyxhsx,A,178000,50,Wrong Answer
+qwqwq,A,180000,20,Wrong Answer
+wmyr,A,194000,20,Runtime Error
+kqshengxuanyi,A,200000,50,Wrong Answer
+huangweiliang,A,203000,20,Wrong Answer
+ywz,A,203000,100,Accepted
+tiaotiao2011,A,203000,100,Accepted
+fangzichang,A,204000,100,Accepted
+HL_CZY,A,207000,20,Wrong Answer
+wmyr,A,210000,50,Wrong Answer
+leiyuhao,A,212000,0,Compile Error
+PhirainEX,A,213000,50,Wrong Answer
+杨育安,A,216000,20,Wrong Answer
+hank0402,A,218000,20,Wrong Answer
+zhangchengrui,A,219000,0,Wrong Answer
+高兴的高,A,227000,20,Wrong Answer
+HBYoutze,A,230000,30,Runtime Error
+QAQfj5,A,231000,50,Wrong Answer
+leiyuhao,A,239000,0,Compile Error
+HBYoutze,A,246000,50,Wrong Answer
+_FJqwq,A,251000,100,Accepted
+leiyuhao,A,253000,0,Wrong Answer
+肖皓天,A,259000,50,Runtime Error
+sunjunhao,A,260000,50,Wrong Answer
+刘添乐,A,261000,20,Wrong Answer
+qhj,A,261000,50,Wrong Answer
+lyxhsx,A,272000,100,Accepted
+hank0402,A,272000,20,Wrong Answer
+QAQfj5,A,285000,50,Wrong Answer
+wtxwd,A,286000,50,Wrong Answer
+leiyuhao,A,295000,0,Wrong Answer
+yyz,A,302000,20,Wrong Answer
+QZ1Z-CQR,A,307000,50,Wrong Answer
+cpz0342,A,308000,50,Wrong Answer
+hepeidong,A,313000,50,Wrong Answer
+zhengjinyi,A,313000,50,Wrong Answer
+nyyjshcz,A,325000,0,Wrong Answer
+hexuben,A,330000,20,Wrong Answer
+kqshengxuanyi,A,333000,100,Accepted
+HBYoutze,A,335000,100,Accepted
+qhj,A,337000,100,Accepted
+xyh,A,337000,50,Wrong Answer
+linmou,A,338000,50,Wrong Answer
+何楷文,A,339000,20,Wrong Answer
+PhirainEX,A,346000,50,Wrong Answer
+markding,A,348000,50,Wrong Answer
+legendcn,A,358000,20,Wrong Answer
+susieli,A,360000,100,Accepted
+leiyuhao,A,364000,20,Wrong Answer
+ljy_xc,A,365000,20,Wrong Answer
+hexuben,A,366000,50,Wrong Answer
+maguangxian,A,368000,100,Accepted
+Nihachu,A,371000,50,Wrong Answer
+hepeidong,A,372000,50,Wrong Answer
+docxjun,A,379000,100,Accepted
+PhirainEX,A,384000,50,Wrong Answer
+luyuyang,A,385000,100,Accepted
+hepeidong,A,385000,100,Accepted
+zhangchengrui,A,386000,0,Wrong Answer
+强强,A,391000,50,Wrong Answer
+sunjunhao,A,408000,100,Accepted
+qwqwq,A,412000,100,Accepted
+zhangce,A,416000,50,Wrong Answer
+zhangzihan_Yuuki Asuna,A,420000,0,Runtime Error
+songzhihan,A,421000,50,Wrong Answer
+linmou,A,428000,50,Wrong Answer
+qzyzcmx,A,429000,20,Wrong Answer
+yyz,A,429000,20,Wrong Answer
+markding,A,430000,50,Wrong Answer
+肖一鸣,A,431000,20,Wrong Answer
+nyyjshcz,A,434000,30,Wrong Answer
+jiangyiyang,A,435000,100,Accepted
+jk123,A,436000,20,Wrong Answer
+cyq,A,439000,50,Wrong Answer
+hank0402,A,441000,20,Wrong Answer
+kjh,A,443000,20,Wrong Answer
+qzyzzgc,A,448000,50,Wrong Answer
+nyyjshcz,A,450000,50,Wrong Answer
+Liuooo,A,451000,30,Wrong Answer
+强强,A,455000,50,Wrong Answer
+Huangjunrui,A,456000,50,Wrong Answer
+yyz,A,469000,20,Wrong Answer
+wtxwd,A,470000,20,Wrong Answer
+markding,A,472000,50,Wrong Answer
+何浩鲲,A,475000,50,Wrong Answer
+强强,A,479000,50,Wrong Answer
+DL24zhangyixin,A,483000,0,Runtime Error
+zhengjinyi,A,488000,20,Runtime Error
+jk123,A,488000,50,Wrong Answer
+zzy0618,A,493000,50,Wrong Answer
+zhangce,A,497000,100,Accepted
+dyt_dirt,A,503000,20,Wrong Answer
+hexuben,A,505000,50,Wrong Answer
+xyh,A,505000,100,Accepted
+武川翔,A,509000,50,Wrong Answer
+hepeidong,B,509000,1,Wrong Answer
+肖皓天,A,512000,20,Wrong Answer
+QAQfj5,A,517000,100,Accepted
+HL_CZY,A,524000,20,Wrong Answer
+罗一航,A,530000,50,Wrong Answer
+ljy_xc,A,534000,50,Wrong Answer
+liyuze,A,547000,20,Wrong Answer
+yyz,A,547000,20,Wrong Answer
+jk123,A,550000,50,Wrong Answer
+Harry,A,554000,100,Accepted
+qwqwq,B,554000,1,Wrong Answer
+kjh,A,555000,20,Wrong Answer
+wtxwd,A,557000,50,Wrong Answer
+leoair,C,560000,0,Time Limit Exceeded
+qzyzzgc,A,560000,50,Wrong Answer
+武川翔,A,563000,20,Wrong Answer
+Huangjunrui,A,565000,50,Wrong Answer
+niusiyuan,A,569000,0,Wrong Answer
+yinhaowei1205,A,574000,50,Wrong Answer
+zhangzihan_Yuuki Asuna,A,575000,0,Runtime Error
+cpz0342,A,578000,50,Wrong Answer
+Zhaozhuoxi,A,582000,20,Wrong Answer
+Liuooo,A,582000,30,Wrong Answer
+肖皓天,A,585000,50,Runtime Error
+leoair,C,590000,0,Wrong Answer
+huangweiliang,A,590000,20,Wrong Answer
+金弋帆,A,593000,20,Wrong Answer
+zhangzihan_Yuuki Asuna,A,593000,20,Wrong Answer
+zhengjinyi,A,595000,50,Wrong Answer
+niusiyuan,A,597000,50,Wrong Answer
+songzhihan,A,599000,20,Wrong Answer
+袁瑞擎,A,601000,50,Wrong Answer
+linmou,A,612000,50,Wrong Answer
+leoair,C,634000,0,Runtime Error
+yaoyanfeng,E,637000,18,Wrong Answer
+cyq,A,638000,100,Accepted
+hjj,A,639000,50,Wrong Answer
+yinhaowei1205,A,646000,50,Wrong Answer
+leoair,C,647000,100,Accepted
+武川翔,A,652000,20,Wrong Answer
+hank0402,A,658000,100,Accepted
+nyyjshcz,A,665000,100,Accepted
+guoliyuzs_2023,A,667000,50,Wrong Answer
+罗一航,A,669000,50,Wrong Answer
+hexuben,A,676000,100,Accepted
+何浩鲲,A,683000,50,Wrong Answer
+陈邑宁,A,692000,50,Wrong Answer
+qwqwq,B,692000,100,Accepted
+强强,A,694000,100,Accepted
+ycn,A,695000,20,Wrong Answer
+sunjunhao,B,696000,1,Wrong Answer
+docxjun,B,703000,1,Wrong Answer
+zzy0618,A,705000,100,Accepted
+刘添乐,A,706000,0,Wrong Answer
+niusiyuan,A,712000,50,Wrong Answer
+Liuooo,A,713000,50,Wrong Answer
+曾浩,A,716000,50,Wrong Answer
+HBYoutze,B,717000,1,Wrong Answer
+jk123,A,720000,50,Wrong Answer
+kjh,A,721000,20,Wrong Answer
+duchengzhu2008,A,722000,50,Wrong Answer
+leiyuhao,A,725000,20,Wrong Answer
+fangzichang,B,732000,1,Wrong Answer
+肖一鸣,A,733000,20,Wrong Answer
+武川翔,A,733000,20,Wrong Answer
+zhangchengrui,B,735000,1,Wrong Answer
+weiyumo,B,735000,20,Time Limit Exceeded
+wmyr,A,738000,100,Accepted
+Zhaozhuoxi,A,744000,20,Wrong Answer
+武川翔,A,750000,50,Wrong Answer
+yaoyanfeng,E,752000,40,Wrong Answer
+ini,A,752000,20,Runtime Error
+肖一鸣,A,755000,100,Accepted
+xieruyu,A,758000,100,Accepted
+zhangchengrui,B,760000,0,Wrong Answer
+ljy_xc,A,760000,50,Wrong Answer
+markding,A,763000,100,Accepted
+张恺瑄,A,767000,20,Wrong Answer
+lyxhsx,B,769000,1,Wrong Answer
+linmou,A,772000,100,Accepted
+Huangjunrui,A,782000,100,Accepted
+zhangzihan_Yuuki Asuna,A,785000,0,Compile Error
+huangweiliang,A,789000,20,Wrong Answer
+hjj,A,791000,50,Wrong Answer
+ini,A,794000,50,Wrong Answer
+zhengjinyi,A,795000,50,Wrong Answer
+PhirainEX,A,798000,20,Wrong Answer
+error,A,808000,50,Wrong Answer
+yyz,A,811000,50,Wrong Answer
+陈邑宁,A,811000,100,Accepted
+HBYoutze,B,818000,1,Wrong Answer
+liyuze,A,818000,100,Accepted
+lyxhsx,B,820000,1,Wrong Answer
+ljy_xc,A,820000,100,Accepted
+zhangzihan_Yuuki Asuna,A,820000,20,Wrong Answer
+DL24zhangyixin,A,820000,50,Wrong Answer
+luyuyang,C,821000,100,Accepted
+何楷文,A,821000,0,Compile Error
+leiyuhao,A,821000,0,Compile Error
+wtxwd,A,827000,50,Wrong Answer
+huangweiliang,A,829000,20,Wrong Answer
+Nihachu,B,831000,0,Compile Error
+ini,A,832000,50,Wrong Answer
+fangzichang,B,836000,1,Wrong Answer
+lyxhsx,B,838000,1,Wrong Answer
+王佳翔,A,840000,50,Wrong Answer
+wxy2010,E,842000,5,Wrong Answer
+legendcn,A,845000,50,Wrong Answer
+HL_CZY,A,846000,20,Wrong Answer
+DL24luchengxiang,A,847000,100,Accepted
+杨育安,A,847000,30,Runtime Error
+张恺瑄,A,849000,20,Wrong Answer
+ycn,A,852000,50,Wrong Answer
+QAQfj5,B,854000,1,Wrong Answer
+Liuooo,A,855000,50,Wrong Answer
+Nihachu,B,855000,1,Wrong Answer
+cpz0342,A,857000,50,Wrong Answer
+何楷文,A,858000,50,Wrong Answer
+xyh,B,860000,1,Wrong Answer
+yinhaowei1205,A,863000,50,Wrong Answer
+杨育安,A,865000,100,Accepted
+leiyuhao,A,867000,20,Wrong Answer
+武川翔,A,870000,50,Wrong Answer
+QAQfj5,B,870000,1,Wrong Answer
+QZ1Z-CQR,A,871000,100,Accepted
+许文渊,A,872000,0,Runtime Error
+zhangchengrui,B,874000,1,Wrong Answer
+XUSJ,B,879000,20,Time Limit Exceeded
+袁瑞擎,A,879000,50,Wrong Answer
+huyanxin,A,880000,50,Wrong Answer
+tyb,A,882000,50,Wrong Answer
+legendcn,A,886000,50,Wrong Answer
+HBYoutze,B,900000,1,Wrong Answer
+huyanxin,A,906000,50,Wrong Answer
+ycn,A,906000,50,Wrong Answer
+dyt_dirt,A,907000,20,Runtime Error
+唐宁泽,A,915000,20,Wrong Answer
+许文渊,A,923000,0,Runtime Error
+xiaoshu2010,A,925000,50,Wrong Answer
+hexuben,B,929000,1,Wrong Answer
+sunjunhao,B,929000,1,Wrong Answer
+xieruyu,C,935000,0,Wrong Answer
+xyh,B,939000,1,Wrong Answer
+snowycat1234,A,939000,100,Accepted
+guoliyuzs_2023,A,952000,50,Wrong Answer
+maguangxian,B,956000,1,Wrong Answer
+duchengzhu2008,A,958000,20,Wrong Answer
+金弋帆,A,961000,0,Compile Error
+曾浩,A,962000,100,Accepted
+cyq,B,962000,1,Wrong Answer
+许文渊,A,966000,0,Runtime Error
+leiyuhao,A,968000,20,Wrong Answer
+kjh,A,974000,20,Wrong Answer
+qwqwq,C,979000,100,Accepted
+ywz,D,981000,30,Wrong Answer
+许文渊,A,985000,50,Wrong Answer
+xiaoshu2010,A,986000,100,Accepted
+金弋帆,A,987000,20,Wrong Answer
+qzyzcmx,A,990000,50,Wrong Answer
+zhangce,B,991000,1,Wrong Answer
+tjy,B,994000,1,Wrong Answer
+jyy0806,A,999000,20,Wrong Answer
+张嘉祥,C,999000,100,Accepted
+夏天天,C,1000000,0,Wrong Answer
+PhirainEX,A,1000000,50,Wrong Answer
+杨育安,B,1002000,1,Wrong Answer
+Harry,B,1003000,1,Wrong Answer
+deyi,A,1004000,50,Wrong Answer
+张恺瑄,A,1008000,50,Time Limit Exceeded
+duchengzhu2008,A,1016000,100,Accepted
+leoair,D,1016000,0,Wrong Answer
+gty314159,A,1021000,100,Accepted
+error,A,1022000,50,Wrong Answer
+PhirainEX,A,1028000,50,Wrong Answer
+xieruyu,C,1031000,0,Wrong Answer
+傅凌龙,A,1031000,20,Wrong Answer
+cyq,B,1031000,1,Wrong Answer
+夏天天,A,1035000,20,Wrong Answer
+maguangxian,B,1035000,100,Accepted
+ywz,D,1037000,100,Accepted
+肖皓天,A,1039000,50,Wrong Answer
+PhirainEX,A,1042000,20,Wrong Answer
+jk123,B,1045000,1,Wrong Answer
+wtxwd,A,1047000,100,Accepted
+Zhaozhuoxi,A,1050000,20,Wrong Answer
+kjh,A,1052000,50,Wrong Answer
+jiazijian,A,1053000,50,Wrong Answer
+许文渊,A,1054000,50,Wrong Answer
+xieruyu,C,1055000,100,Accepted
+傅凌龙,B,1059000,1,Wrong Answer
+songzhihan,A,1064000,50,Wrong Answer
+susieli,B,1065000,1,Wrong Answer
+武川翔,A,1065000,50,Wrong Answer
+huangweiliang,A,1065000,20,Wrong Answer
+金弋帆,A,1076000,0,Compile Error
+QAQfj5,B,1078000,1,Time Limit Exceeded
+cyq,B,1081000,1,Wrong Answer
+郑宇,A,1081000,50,Wrong Answer
+Liuooo,A,1083000,0,Compile Error
+zhangzihan_Yuuki Asuna,A,1086000,20,Wrong Answer
+qzyzzgc,B,1088000,1,Wrong Answer
+hutianshuo,B,1094000,1,Wrong Answer
+金弋帆,A,1094000,20,Wrong Answer
+Liuooo,A,1094000,50,Wrong Answer
+HL_CZY,A,1100000,20,Wrong Answer
+HLOI_3_P045,A,1101000,20,Wrong Answer
+zhangchengrui,B,1105000,1,Time Limit Exceeded
+PhirainEX,A,1105000,100,Accepted
+唐宁泽,A,1108000,20,Wrong Answer
+cyq,B,1112000,1,Wrong Answer
+zhangzihan_Yuuki Asuna,A,1115000,20,Wrong Answer
+hutianshuo,E,1116000,0,Wrong Answer
+高兴的高,A,1117000,100,Accepted
+legendcn,A,1117000,50,Wrong Answer
+zhangce,B,1118000,1,Wrong Answer
+何楷文,A,1120000,100,Accepted
+qzyzcmx,A,1126000,0,Compile Error
+hutianshuo,E,1132000,0,Wrong Answer
+weiyumo,A,1133000,20,Wrong Answer
+qzyzcmx,A,1136000,50,Wrong Answer
+jk123,A,1146000,50,Wrong Answer
+hutianshuo,B,1146000,1,Wrong Answer
+songzhihan,A,1163000,50,Wrong Answer
+niusiyuan,A,1163000,20,Wrong Answer
+wtxwd,B,1170000,1,Wrong Answer
+Liuooo,A,1172000,50,Wrong Answer
+leiyuhao,A,1179000,20,Wrong Answer
+nyyjshcz,B,1183000,1,Wrong Answer
+kjh,A,1184000,50,Wrong Answer
+luyuyang,B,1186000,1,Wrong Answer
+qhj,B,1188000,100,Accepted
+DL24zhangyixin,A,1197000,20,Wrong Answer
+hexuben,B,1198000,1,Wrong Answer
+zhangzihan_Yuuki Asuna,A,1202000,0,Wrong Answer
+zhangce,B,1204000,1,Wrong Answer
+武川翔,A,1206000,100,Accepted
+chendingyan,B,1207000,20,Time Limit Exceeded
+金弋帆,A,1209000,20,Runtime Error
+许文渊,A,1209000,50,Wrong Answer
+tiaotiao2011,B,1218000,1,Wrong Answer
+lyxhsx,B,1222000,1,Wrong Answer
+HL_CZY,A,1223000,100,Accepted
+Liuooo,A,1225000,50,Wrong Answer
+Nihachu,B,1229000,1,Wrong Answer
+xyh,B,1232000,1,Wrong Answer
+唐宁泽,A,1239000,100,Accepted
+huyanxin,A,1243000,20,Wrong Answer
+QAQfj5,B,1244000,1,Time Limit Exceeded
+何浩鲲,A,1245000,100,Accepted
+_FJqwq,B,1246000,1,Wrong Answer
+songzhihan,A,1247000,50,Wrong Answer
+Zhaozhuoxi,A,1249000,20,Wrong Answer
+legendcn,A,1253000,20,Wrong Answer
+陈邑宁,B,1255000,1,Wrong Answer
+Nihachu,B,1261000,100,Accepted
+zzy0618,B,1266000,1,Wrong Answer
+songhaoyu,A,1266000,20,Wrong Answer
+huangweiliang,A,1266000,20,Wrong Answer
+kjh,A,1277000,50,Wrong Answer
+何楷文,B,1283000,0,Compile Error
+niusiyuan,A,1293000,20,Wrong Answer
+何楷文,B,1310000,1,Wrong Answer
+yinhaowei1205,A,1314000,20,Wrong Answer
+nyyjshcz,B,1314000,1,Wrong Answer
+刘子墨,A,1316000,20,Wrong Answer
+leoair,D,1323000,0,Wrong Answer
+wuxian,A,1328000,20,Runtime Error
+Zhaozhuoxi,A,1334000,20,Wrong Answer
+何楷文,B,1336000,1,Wrong Answer
+huangweiliang,A,1339000,20,Wrong Answer
+金弋帆,A,1341000,20,Wrong Answer
+legendcn,A,1343000,100,Accepted
+张嘉祥,A,1344000,50,Wrong Answer
+leoair,D,1346000,0,Wrong Answer
+zhangce,B,1347000,1,Wrong Answer
+Liuooo,A,1352000,50,Wrong Answer
+xieruyu,B,1354000,1,Wrong Answer
+dyt_dirt,A,1354000,50,Runtime Error
+_FJqwq,B,1356000,1,Wrong Answer
+luyuyang,B,1358000,1,Wrong Answer
+huyanxin,A,1359000,20,Wrong Answer
+QAQfj5,B,1362000,100,Accepted
+dyt_dirt,A,1369000,100,Accepted
+Harry,B,1373000,1,Wrong Answer
+肖一鸣,B,1373000,1,Wrong Answer
+HBYoutze,B,1378000,1,Wrong Answer
+huyanxin,A,1380000,20,Wrong Answer
+HL_CZY,B,1380000,1,Wrong Answer
+deyi,A,1381000,50,Wrong Answer
+郑宇,A,1384000,50,Wrong Answer
+qzyzcmx,A,1394000,100,Accepted
+zhangchengrui,B,1406000,1,Wrong Answer
+qwqwq,D,1406000,30,Wrong Answer
+hjj,A,1407000,20,Wrong Answer
+weiyumo,E,1408000,0,Wrong Answer
+wuxian,A,1410000,20,Wrong Answer
+_FJqwq,B,1411000,1,Wrong Answer
+zzy0618,B,1413000,1,Wrong Answer
+jiazijian,A,1414000,100,Accepted
+qzyzzgc,A,1416000,50,Wrong Answer
+leiyuhao,A,1417000,20,Wrong Answer
+Liuooo,A,1417000,50,Wrong Answer
+liruoxin,A,1420000,50,Runtime Error
+kjh,A,1422000,50,Wrong Answer
+cpz0342,B,1426000,1,Wrong Answer
+sunjunhao,C,1431000,100,Accepted
+HL_CZY,B,1435000,1,Wrong Answer
+QZ1Z-CQR,C,1435000,0,Wrong Answer
+hjj,A,1435000,100,Accepted
+liruoxin,A,1437000,50,Wrong Answer
+yinhaowei1205,A,1437000,50,Wrong Answer
+肖一鸣,B,1441000,1,Wrong Answer
+jk123,B,1445000,1,Wrong Answer
+HLOI_3_P045,A,1446000,100,Accepted
+hexuben,B,1449000,1,Wrong Answer
+ini,A,1450000,100,Accepted
+zhangce,B,1452000,1,Wrong Answer
+jk123,B,1461000,1,Wrong Answer
+huyanxin,A,1469000,20,Wrong Answer
+郑宇,A,1472000,100,Accepted
+HBYoutze,B,1475000,100,Accepted
+DL24zhangyixin,A,1476000,100,Accepted
+huyanxin,A,1484000,50,Wrong Answer
+tjy,B,1488000,1,Wrong Answer
+niusiyuan,A,1497000,50,Wrong Answer
+leiyuhao,A,1508000,50,Wrong Answer
+cyq,C,1509000,100,Accepted
+_FJqwq,B,1510000,20,Wrong Answer
+张恺瑄,B,1510000,20,Time Limit Exceeded
+何楷文,B,1512000,1,Wrong Answer
+songhaoyu,B,1515000,0,Wrong Answer
+方子豪,A,1521000,0,Compile Error
+ljy_xc,B,1524000,60,Wrong Answer
+yinhaowei1205,A,1527000,50,Wrong Answer
+刘添乐,A,1529000,30,Wrong Answer
+何楷文,B,1531000,1,Wrong Answer
+hutianshuo,B,1532000,1,Wrong Answer
+陈邑宁,B,1535000,100,Accepted
+方子豪,A,1538000,0,Compile Error
+肖皓天,A,1539000,50,Wrong Answer
+leoair,A,1541000,50,Wrong Answer
+kjh,A,1543000,20,Wrong Answer
+张嘉祥,A,1547000,100,Accepted
+legendcn,B,1562000,0,Compile Error
+_FJqwq,B,1564000,100,Accepted
+legendcn,B,1572000,1,Wrong Answer
+Liuooo,A,1581000,50,Wrong Answer
+Harry,B,1584000,1,Wrong Answer
+方子豪,A,1586000,20,Runtime Error
+肖一鸣,B,1589000,1,Wrong Answer
+liruoxin,A,1593000,50,Wrong Answer
+docxjun,C,1593000,0,Time Limit Exceeded
+leoair,A,1600000,50,Wrong Answer
+kjh,A,1601000,100,Accepted
+leiyuhao,A,1601000,100,Accepted
+王佳翔,A,1603000,20,Wrong Answer
+guoliyuzs_2023,A,1604000,100,Accepted
+niusiyuan,A,1617000,100,Accepted
+cpz0342,B,1623000,1,Wrong Answer
+chendingyan,A,1625000,20,Wrong Answer
+nyyjshcz,B,1628000,1,Wrong Answer
+yyz,A,1636000,50,Wrong Answer
+许文渊,A,1644000,100,Accepted
+hexuben,B,1651000,100,Accepted
+luyuyang,B,1652000,100,Accepted
+ljy_xc,B,1654000,100,Accepted
+jk123,A,1659000,50,Wrong Answer
+susieli,B,1659000,100,Accepted
+zhangchengrui,B,1666000,1,Wrong Answer
+Liuooo,A,1668000,50,Wrong Answer
+qhj,C,1668000,100,Accepted
+张恺瑄,A,1668000,50,Wrong Answer
+刘添乐,A,1673000,30,Wrong Answer
+QZ1Z-CQR,C,1674000,0,Wrong Answer
+docxjun,C,1677000,0,Time Limit Exceeded
+QAQfj5,C,1680000,0,Wrong Answer
+maguangxian,C,1681000,100,Accepted
+许文渊,A,1690000,50,Runtime Error
+MerlinLee,B,1690000,1,Time Limit Exceeded
+许文渊,A,1704000,100,Accepted
+H2ptimize,A,1705000,0,Runtime Error
+袁瑞擎,B,1708000,20,Time Limit Exceeded
+linmou,B,1714000,1,Wrong Answer
+tiaotiao2011,B,1724000,1,Wrong Answer
+zzy0618,B,1725000,1,Wrong Answer
+Harry,B,1726000,60,Wrong Answer
+docxjun,C,1731000,100,Accepted
+jiangyiyang,B,1737000,1,Wrong Answer
+nyyjshcz,B,1742000,1,Wrong Answer
+sunjunhao,D,1742000,9,Wrong Answer
+Liuooo,A,1742000,50,Wrong Answer
+Zhaozhuoxi,A,1749000,50,Wrong Answer
+Huangjunrui,B,1750000,100,Accepted
+_FJqwq,C,1753000,100,Accepted
+刘添乐,A,1757000,30,Wrong Answer
+linmou,B,1759000,1,Wrong Answer
+jiangyiyang,B,1763000,1,Wrong Answer
+Liuooo,A,1764000,50,Wrong Answer
+sunjunhao,D,1767000,0,Wrong Answer
+方子豪,A,1769000,20,Runtime Error
+xieruyu,B,1779000,60,Wrong Answer
+weiyumo,A,1780000,20,Wrong Answer
+Harry,B,1782000,100,Accepted
+肖一鸣,B,1783000,100,Accepted
+陈邑宁,C,1785000,0,Wrong Answer
+QAQfj5,C,1789000,100,Accepted
+Liuooo,A,1796000,50,Wrong Answer
+zhengjinyi,A,1804000,50,Wrong Answer
+刘子墨,A,1807000,20,Runtime Error
+方子豪,A,1809000,0,Compile Error
+lyxhsx,B,1810000,1,Wrong Answer
+jiangyiyang,B,1812000,1,Wrong Answer
+罗一航,A,1816000,50,Wrong Answer
+niusiyuan,B,1819000,1,Wrong Answer
+刘子墨,A,1824000,20,Runtime Error
+cpz0342,B,1825000,100,Accepted
+wmyr,C,1828000,0,Wrong Answer
+nyyjshcz,B,1831000,1,Wrong Answer
+PhirainEX,B,1840000,1,Wrong Answer
+Nihachu,A,1846000,100,Accepted
+zzy0618,B,1847000,100,Accepted
+刘添乐,A,1854000,50,Wrong Answer
+nyyjshcz,B,1859000,1,Wrong Answer
+曾浩,B,1859000,20,Wrong Answer
+刘子墨,A,1863000,20,Runtime Error
+王佳翔,A,1864000,50,Wrong Answer
+jk123,B,1868000,1,Wrong Answer
+Liuooo,A,1870000,50,Wrong Answer
+张恺瑄,A,1874000,50,Wrong Answer
+luyuyang,D,1891000,9,Wrong Answer
+曾浩,B,1894000,20,Time Limit Exceeded
+hank0402,B,1895000,100,Accepted
+ycn,A,1896000,100,Accepted
+DL24luchengxiang,B,1900000,100,Accepted
+jiangyiyang,B,1905000,1,Wrong Answer
+yangbowen,A,1907000,20,Runtime Error
+ywz,C,1909000,100,Accepted
+zhangchengrui,C,1919000,0,Wrong Answer
+kjh,C,1927000,0,Wrong Answer
+tiaotiao2011,B,1929000,100,Accepted
+刘添乐,A,1932000,100,Accepted
+hexuben,C,1938000,100,Accepted
+sunjunhao,D,1947000,0,Wrong Answer
+deyi,A,1948000,50,Wrong Answer
+jyy0806,B,1962000,1,Wrong Answer
+zhengjinyi,A,1962000,50,Wrong Answer
+zhangchengrui,C,1977000,100,Accepted
+Liuooo,A,1980000,50,Wrong Answer
+ycn,B,1983000,1,Wrong Answer
+fangzichang,C,1987000,0,Wrong Answer
+liruoxin,A,1995000,100,Accepted
+zhangzihan_Yuuki Asuna,B,2000000,1,Time Limit Exceeded
+wmyr,C,2007000,0,Compile Error
+夏天天,B,2011000,1,Time Limit Exceeded
+袁瑞擎,B,2012000,20,Time Limit Exceeded
+H2ptimize,B,2013000,1,Wrong Answer
+xiaoshu2010,C,2014000,100,Accepted
+nyyjshcz,B,2018000,1,Time Limit Exceeded
+_FJqwq,D,2022000,0,Wrong Answer
+sunjunhao,D,2024000,0,Wrong Answer
+xieruyu,B,2026000,1,Wrong Answer
+wmyr,C,2028000,0,Wrong Answer
+PhirainEX,B,2037000,100,Accepted
+_FJqwq,D,2040000,0,Wrong Answer
+Zhaozhuoxi,B,2047000,20,Time Limit Exceeded
+xieruyu,B,2050000,1,Wrong Answer
+jiangyiyang,B,2056000,1,Wrong Answer
+罗一航,A,2061000,50,Wrong Answer
+MerlinLee,A,2062000,20,Wrong Answer
+yaoyanfeng,E,2063000,100,Accepted
+leoair,B,2065000,1,Wrong Answer
+刘添乐,B,2066000,1,Wrong Answer
+linmou,B,2071000,1,Wrong Answer
+jk123,A,2072000,100,Accepted
+何浩鲲,B,2074000,0,Wrong Answer
+hexuben,D,2077000,0,Wrong Answer
+Liuooo,A,2078000,100,Accepted
+何楷文,B,2087000,1,Wrong Answer
+H2ptimize,A,2093000,0,Runtime Error
+leoair,B,2093000,1,Wrong Answer
+docxjun,B,2094000,100,Accepted
+xieruyu,B,2096000,100,Accepted
+ljy_xc,C,2097000,100,Accepted
+hjj,B,2099000,1,Time Limit Exceeded
+huangshiyu,A,2108000,50,Wrong Answer
+陈邑宁,C,2108000,0,Wrong Answer
+nyyjshcz,B,2109000,1,Wrong Answer
+huyanxin,B,2114000,1,Time Limit Exceeded
+qwqwq,D,2119000,100,Accepted
+linmou,B,2122000,0,Compile Error
+何浩鲲,B,2123000,1,Wrong Answer
+张嘉祥,B,2130000,1,Wrong Answer
+deyi,A,2132000,50,Wrong Answer
+H2ptimize,A,2132000,100,Accepted
+linmou,B,2138000,0,Compile Error
+傅凌龙,B,2138000,20,Time Limit Exceeded
+huangshiyu,A,2149000,50,Wrong Answer
+HL_CZY,C,2158000,100,Accepted
+BruceTong,A,2160000,20,Wrong Answer
+linmou,B,2162000,1,Wrong Answer
+leoair,B,2163000,1,Wrong Answer
+snowycat1234,B,2167000,1,Wrong Answer
+hepeidong,C,2172000,100,Accepted
+hjj,B,2178000,20,Time Limit Exceeded
+error,B,2178000,1,Wrong Answer
+袁瑞擎,B,2180000,100,Accepted
+夏天天,A,2187000,20,Wrong Answer
+yangbowen,A,2192000,50,Wrong Answer
+_FJqwq,D,2196000,100,Accepted
+deyi,A,2207000,50,Wrong Answer
+fangzichang,C,2213000,0,Wrong Answer
+hexuben,E,2216000,0,Judgement Failed
+nyyjshcz,B,2217000,1,Wrong Answer
+songhaoyu,B,2230000,1,Wrong Answer
+Zhaozhuoxi,B,2233000,1,Time Limit Exceeded
+张嘉祥,B,2234000,1,Wrong Answer
+XUSJ,F,2236000,30,Time Limit Exceeded
+nyyjshcz,B,2243000,20,Time Limit Exceeded
+肖一鸣,C,2250000,100,Accepted
+wtxwd,B,2251000,1,Time Limit Exceeded
+huangweiliang,C,2256000,0,Wrong Answer
+夏天天,A,2258000,100,Accepted
+qzyzzgc,A,2264000,50,Wrong Answer
+qwqwq,E,2264000,0,Wrong Answer
+luyuyang,D,2264000,30,Wrong Answer
+wtxwd,B,2276000,1,Time Limit Exceeded
+HLOI_3_P045,B,2278000,1,Wrong Answer
+QAQfj5,D,2280000,9,Wrong Answer
+曾浩,B,2294000,20,Time Limit Exceeded
+陈邑宁,C,2296000,100,Accepted
+wtxwd,B,2306000,1,Wrong Answer
+xyh,B,2322000,60,Wrong Answer
+张智淏,A,2325000,100,Accepted
+QZ1Z-CQR,D,2335000,30,Wrong Answer
+jiazijian,B,2348000,1,Wrong Answer
+tjy,A,2349000,50,Wrong Answer
+zzy0618,C,2350000,100,Accepted
+BruceTong,A,2350000,20,Wrong Answer
+何楷文,B,2351000,1,Wrong Answer
+H2ptimize,B,2354000,1,Wrong Answer
+Liuooo,B,2359000,1,Wrong Answer
+zlj6699tt,B,2362000,1,Wrong Answer
+jk123,B,2366000,1,Wrong Answer
+linmou,B,2366000,100,Accepted
+zhangce,B,2368000,1,Wrong Answer
+傅凌龙,A,2375000,50,Wrong Answer
+xieruyu,D,2378000,0,Wrong Answer
+zhangzihan_Yuuki Asuna,A,2383000,20,Wrong Answer
+cyq,B,2385000,1,Wrong Answer
+xieruyu,D,2390000,9,Wrong Answer
+肖皓天,B,2402000,1,Wrong Answer
+leoair,B,2402000,60,Wrong Answer
+xyh,B,2408000,100,Accepted
+jiazijian,B,2412000,1,Wrong Answer
+wmyr,C,2417000,0,Wrong Answer
+luyuyang,D,2417000,30,Wrong Answer
+wmyr,C,2430000,100,Accepted
+qhj,D,2433000,30,Wrong Answer
+weiyumo,A,2434000,50,Wrong Answer
+张恺瑄,A,2435000,50,Wrong Answer
+zhengjinyi,B,2446000,1,Wrong Answer
+lyxhsx,B,2447000,100,Accepted
+xieruyu,D,2457000,9,Wrong Answer
+金弋帆,E,2460000,0,Wrong Answer
+傅凌龙,A,2460000,20,Wrong Answer
+tiaotiao2011,C,2462000,100,Accepted
+huyanxin,B,2464000,1,Time Limit Exceeded
+曾浩,B,2464000,20,Time Limit Exceeded
+zhangce,B,2470000,0,Compile Error
+wtxwd,B,2472000,1,Memory Limit Exceeded
+songzhihan,E,2473000,5,Wrong Answer
+leoair,B,2475000,60,Wrong Answer
+cyq,B,2481000,1,Wrong Answer
+夏天天,B,2481000,20,Time Limit Exceeded
+zhangce,B,2487000,1,Wrong Answer
+huangweiliang,C,2499000,0,Wrong Answer
+wtxwd,B,2500000,0,Compile Error
+何楷文,B,2507000,1,Wrong Answer
+songzhihan,E,2507000,5,Wrong Answer
+DL24zhangyixin,B,2508000,1,Wrong Answer
+cyq,B,2512000,100,Accepted
+wtxwd,B,2512000,1,Wrong Answer
+BruceTong,A,2515000,50,Wrong Answer
+ywz,B,2523000,1,Wrong Answer
+傅凌龙,A,2526000,20,Wrong Answer
+leoair,B,2533000,100,Accepted
+何楷文,B,2533000,1,Wrong Answer
+Liuooo,B,2537000,1,Wrong Answer
+ini,B,2540000,1,Wrong Answer
+wtxwd,B,2545000,1,Wrong Answer
+kqshengxuanyi,D,2547000,0,Wrong Answer
+gty314159,B,2548000,100,Accepted
+杨育安,B,2553000,1,Wrong Answer
+Zhaozhuoxi,B,2554000,1,Time Limit Exceeded
+肖皓天,B,2555000,1,Wrong Answer
+郑宇,B,2564000,1,Time Limit Exceeded
+tjy,A,2569000,50,Wrong Answer
+QAQfj5,D,2569000,9,Wrong Answer
+ywz,B,2575000,1,Wrong Answer
+ini,B,2576000,1,Wrong Answer
+kqshengxuanyi,D,2580000,0,Wrong Answer
+zhengjinyi,B,2581000,100,Accepted
+金弋帆,B,2582000,1,Wrong Answer
+wxy2010,E,2587000,100,Accepted
+何楷文,B,2591000,0,Compile Error
+qzyzzgc,A,2597000,50,Wrong Answer
+何楷文,B,2602000,1,Wrong Answer
+wtxwd,B,2606000,1,Wrong Answer
+ywz,B,2608000,1,Runtime Error
+fangzichang,D,2609000,9,Wrong Answer
+傅凌龙,A,2612000,20,Wrong Answer
+kqshengxuanyi,D,2613000,9,Wrong Answer
+snowycat1234,B,2614000,1,Runtime Error
+jiangyiyang,B,2616000,1,Wrong Answer
+lyxhsx,C,2619000,0,Wrong Answer
+MerlinLee,E,2622000,0,Runtime Error
+何楷文,B,2623000,1,Wrong Answer
+kjh,B,2625000,1,Wrong Answer
+legendcn,C,2631000,0,Wrong Answer
+肖皓天,B,2638000,1,Wrong Answer
+zhangce,B,2639000,1,Wrong Answer
+罗一航,A,2644000,50,Wrong Answer
+袁瑞擎,A,2648000,50,Wrong Answer
+sunjunhao,B,2648000,1,Wrong Answer
+kqshengxuanyi,D,2649000,9,Wrong Answer
+snowycat1234,B,2651000,1,Runtime Error
+qzyzzgc,A,2652000,50,Wrong Answer
+wuxian,A,2653000,50,Wrong Answer
+张恺瑄,A,2654000,50,Wrong Answer
+legendcn,C,2654000,0,Wrong Answer
+liuzeyuan,A,2662000,0,Compile Error
+kjh,B,2664000,20,Wrong Answer
+kqshengxuanyi,D,2665000,9,Wrong Answer
+snowycat1234,B,2667000,1,Runtime Error
+傅凌龙,A,2668000,0,Compile Error
+ywz,B,2668000,100,Accepted
+luyuyang,D,2673000,30,Wrong Answer
+jk123,B,2675000,1,Wrong Answer
+maguangxian,D,2676000,0,Wrong Answer
+Huangjunrui,C,2677000,100,Accepted
+snowycat1234,B,2681000,1,Wrong Answer
+jyy0806,B,2683000,1,Wrong Answer
+HLOI_3_P045,B,2689000,1,Wrong Answer
+傅凌龙,A,2692000,20,Wrong Answer
+xyh,C,2693000,100,Accepted
+nyyjshcz,B,2709000,0,Compile Error
+PhirainEX,C,2720000,100,Accepted
+nyyjshcz,B,2721000,1,Wrong Answer
+傅凌龙,A,2721000,50,Wrong Answer
+Zhaozhuoxi,B,2726000,20,Time Limit Exceeded
+legendcn,C,2731000,0,Wrong Answer
+Liuooo,B,2736000,1,Wrong Answer
+snowycat1234,B,2736000,1,Wrong Answer
+高兴的高,E,2738000,0,Wrong Answer
+DL24luchengxiang,D,2745000,100,Accepted
+何楷文,B,2746000,1,Wrong Answer
+DL24zhangyixin,B,2748000,1,Wrong Answer
+HBYoutze,D,2749000,30,Wrong Answer
+lyxhsx,C,2750000,0,Wrong Answer
+zlj6699tt,B,2753000,1,Wrong Answer
+wtxwd,B,2759000,1,Wrong Answer
+maguangxian,D,2762000,0,Wrong Answer
+legendcn,C,2762000,0,Compile Error
+zhangce,B,2763000,1,Wrong Answer
+leiyuhao,C,2766000,0,Wrong Answer
+legendcn,C,2773000,0,Wrong Answer
+zlj6699tt,B,2777000,1,Wrong Answer
+jiangyiyang,B,2778000,100,Accepted
+杨育安,B,2790000,1,Wrong Answer
+zhengjinyi,A,2790000,50,Wrong Answer
+wuxian,A,2791000,50,Wrong Answer
+qhj,D,2794000,30,Wrong Answer
+wxy2010,B,2797000,1,Wrong Answer
+error,A,2798000,50,Wrong Answer
+ini,B,2805000,1,Wrong Answer
+yangbowen,A,2806000,50,Wrong Answer
+曾浩,B,2809000,0,Compile Error
+zhangzihan_Yuuki Asuna,A,2814000,50,Wrong Answer
+jiazijian,B,2814000,1,Wrong Answer
+wmyr,B,2817000,1,Wrong Answer
+sunjunhao,B,2823000,1,Wrong Answer
+曾浩,B,2824000,1,Wrong Answer
+leoair,A,2825000,50,Wrong Answer
+袁瑞擎,E,2826000,0,Wrong Answer
+wxy2010,B,2829000,60,Wrong Answer
+liyuze,B,2832000,1,Wrong Answer
+傅凌龙,A,2835000,20,Wrong Answer
+legendcn,C,2840000,0,Wrong Answer
+snowycat1234,B,2841000,1,Runtime Error
+tyb,A,2843000,50,Wrong Answer
+Zhaozhuoxi,B,2857000,1,Time Limit Exceeded
+zhangce,B,2859000,1,Wrong Answer
+王佳翔,B,2862000,20,Time Limit Exceeded
+曾浩,B,2863000,1,Wrong Answer
+leoair,A,2863000,50,Wrong Answer
+刘添乐,B,2866000,1,Wrong Answer
+yinhaowei1205,A,2869000,100,Accepted
+gty314159,C,2872000,100,Accepted
+zhangzihan_Yuuki Asuna,A,2881000,50,Wrong Answer
+wxy2010,B,2888000,100,Accepted
+linmou,C,2891000,0,Time Limit Exceeded
+曾浩,B,2893000,1,Wrong Answer
+Liuooo,B,2894000,1,Wrong Answer
+deyi,A,2894000,20,Wrong Answer
+fangzichang,B,2904000,1,Time Limit Exceeded
+wuxian,A,2905000,50,Wrong Answer
+legendcn,C,2909000,0,Wrong Answer
+MerlinLee,A,2913000,20,Time Limit Exceeded
+Zhaozhuoxi,B,2913000,1,Time Limit Exceeded
+zhangce,B,2916000,1,Wrong Answer
+maguangxian,D,2922000,30,Wrong Answer
+wmyr,B,2928000,1,Wrong Answer
+何楷文,B,2930000,1,Wrong Answer
+sunjunhao,B,2934000,1,Wrong Answer
+XUSJ,A,2943000,20,Wrong Answer
+许文渊,B,2949000,1,Wrong Answer
+曾浩,B,2967000,1,Wrong Answer
+zhangce,B,2969000,1,Judgement Failed
+snowycat1234,B,2981000,100,Accepted
+nyyjshcz,B,2982000,100,Accepted
+Zhaozhuoxi,B,2985000,60,Time Limit Exceeded
+legendcn,C,2991000,100,Accepted
+MerlinLee,B,2991000,60,Wrong Answer
+leoair,E,2994000,0,Judgement Failed
+xyh,D,2997000,0,Wrong Answer
+zhangzihan_Yuuki Asuna,A,2998000,50,Wrong Answer
+zhangce,B,3002000,1,Judgement Failed
+wtxwd,B,3003000,1,Wrong Answer
+许文渊,B,3005000,1,Wrong Answer
+sunjunhao,B,3006000,1,Wrong Answer
+docxjun,D,3008000,0,Wrong Answer
+何楷文,B,3011000,1,Wrong Answer
+qzyzcmx,C,3017000,0,Wrong Answer
+Liuooo,B,3020000,1,Wrong Answer
+leoair,E,3021000,0,Wrong Answer
+DL24luchengxiang,C,3025000,100,Accepted
+error,A,3025000,50,Wrong Answer
+何楷文,B,3035000,1,Wrong Answer
+刘添乐,B,3050000,20,Time Limit Exceeded
+sunjunhao,B,3050000,1,Wrong Answer
+xyh,D,3052000,9,Wrong Answer
+jiangyiyang,C,3067000,0,Wrong Answer
+huyanxin,A,3067000,20,Wrong Answer
+wmyr,B,3071000,1,Wrong Answer
+zhangce,B,3073000,1,Judgement Failed
+QAQfj5,D,3076000,0,Wrong Answer
+DL24zhangyixin,B,3079000,1,Wrong Answer
+wuxian,B,3081000,1,Wrong Answer
+niusiyuan,B,3081000,1,Wrong Answer
+wtxwd,B,3082000,100,Accepted
+huangweiliang,C,3085000,0,Wrong Answer
+QZ1Z-CQR,B,3089000,1,Wrong Answer
+ini,B,3094000,1,Wrong Answer
+jiangyiyang,C,3100000,0,Wrong Answer
+何浩鲲,B,3101000,1,Wrong Answer
+yaoyanfeng,D,3103000,0,Compile Error
+zhangce,B,3105000,1,Judgement Failed
+何楷文,B,3105000,1,Wrong Answer
+zhangce,B,3112000,1,Wrong Answer
+yaoyanfeng,D,3115000,30,Wrong Answer
+qzyzcmx,C,3116000,0,Wrong Answer
+QAQfj5,D,3117000,9,Wrong Answer
+weiyumo,A,3127000,50,Wrong Answer
+guoliyuzs_2023,B,3129000,100,Accepted
+曾浩,B,3137000,1,Wrong Answer
+deyi,A,3137000,20,Wrong Answer
+刘添乐,B,3140000,0,Compile Error
+yaoyanfeng,D,3145000,30,Wrong Answer
+Liuooo,B,3152000,1,Wrong Answer
+luyuyang,D,3155000,100,Accepted
+zhangce,B,3169000,1,Judgement Failed
+何楷文,B,3172000,1,Wrong Answer
+yaoyanfeng,D,3174000,51,Wrong Answer
+QZ1Z-CQR,B,3177000,1,Wrong Answer
+zhangce,B,3182000,1,Wrong Answer
+何楷文,B,3185000,1,Wrong Answer
+_FJqwq,E,3197000,100,Accepted
+何楷文,B,3201000,1,Wrong Answer
+XUSJ,A,3203000,0,Wrong Answer
+zhengjinyi,C,3206000,0,Wrong Answer
+何浩鲲,B,3207000,1,Wrong Answer
+刘添乐,B,3212000,20,Time Limit Exceeded
+chendingyan,E,3215000,0,Wrong Answer
+何楷文,B,3215000,100,Accepted
+MerlinLee,E,3216000,18,Wrong Answer
+yangbowen,A,3217000,50,Wrong Answer
+刘子墨,B,3219000,1,Wrong Answer
+qhj,D,3223000,100,Accepted
+BruceTong,A,3226000,100,Accepted
+杨育安,B,3226000,20,Time Limit Exceeded
+王佳翔,A,3228000,20,Wrong Answer
+HBYoutze,D,3228000,65,Wrong Answer
+HLOI_3_P045,B,3233000,100,Accepted
+肖皓天,B,3241000,1,Wrong Answer
+duchengzhu2008,B,3245000,20,Time Limit Exceeded
+huyanxin,A,3251000,50,Wrong Answer
+liyuze,B,3251000,1,Wrong Answer
+linmou,C,3259000,0,Time Limit Exceeded
+zhangce,B,3261000,1,Judgement Failed
+DL24zhangyixin,B,3267000,1,Wrong Answer
+张嘉祥,B,3269000,1,Wrong Answer
+王佳翔,A,3271000,50,Wrong Answer
+强强,B,3271000,1,Wrong Answer
+zhangchengrui,F,3277000,0,Wrong Answer
+jiazijian,B,3283000,1,Wrong Answer
+QZ1Z-CQR,B,3291000,100,Accepted
+maguangxian,D,3292000,30,Wrong Answer
+zhangchengrui,F,3293000,30,Time Limit Exceeded
+yaoyanfeng,D,3295000,100,Accepted
+武川翔,B,3296000,60,Wrong Answer
+zhangce,B,3297000,1,Wrong Answer
+XUSJ,A,3297000,20,Wrong Answer
+sunjunhao,B,3298000,1,Wrong Answer
+杨育安,B,3305000,1,Wrong Answer
+傅凌龙,A,3315000,50,Wrong Answer
+强强,B,3317000,1,Wrong Answer
+曾浩,B,3327000,100,Accepted
+maguangxian,D,3328000,30,Wrong Answer
+Zhaozhuoxi,A,3336000,50,Wrong Answer
+郑宇,B,3338000,20,Wrong Answer
+huangweiliang,C,3343000,100,Accepted
+wmyr,B,3344000,100,Accepted
+罗一航,B,3350000,1,Wrong Answer
+huangshiyu,A,3351000,100,Accepted
+weiyumo,A,3355000,50,Wrong Answer
+QAQfj5,D,3363000,0,Wrong Answer
+HBYoutze,D,3366000,65,Wrong Answer
+Zhaozhuoxi,A,3367000,50,Wrong Answer
+Harry,C,3375000,100,Accepted
+zhangzihan_Yuuki Asuna,A,3375000,100,Accepted
+maguangxian,D,3392000,30,Wrong Answer
+强强,B,3394000,1,Wrong Answer
+liuzeyuan,B,3396000,0,Compile Error
+songzhihan,A,3401000,50,Wrong Answer
+张智淏,B,3404000,1,Wrong Answer
+杨育安,B,3406000,1,Wrong Answer
+kjh,E,3414000,0,Wrong Answer
+zhangce,B,3415000,1,Wrong Answer
+hank0402,C,3419000,100,Accepted
+linmou,C,3421000,100,Accepted
+杨育安,B,3422000,100,Accepted
+kjh,B,3424000,1,Wrong Answer
+zhengjinyi,C,3432000,100,Accepted
+Liuooo,B,3437000,1,Wrong Answer
+张恺瑄,A,3438000,50,Wrong Answer
+sunjunhao,B,3446000,1,Wrong Answer
+kjh,B,3448000,1,Wrong Answer
+MerlinLee,F,3449000,0,Time Limit Exceeded
+郑宇,B,3459000,1,Wrong Answer
+zhangzihan_Yuuki Asuna,B,3465000,20,Time Limit Exceeded
+许文渊,B,3471000,1,Wrong Answer
+武川翔,B,3478000,60,Wrong Answer
+高兴的高,E,3487000,5,Wrong Answer
+zhangce,B,3495000,100,Accepted
+leoair,A,3498000,50,Wrong Answer
+zlj6699tt,B,3514000,1,Wrong Answer
+张智淏,B,3520000,1,Wrong Answer
+zhangzihan_Yuuki Asuna,B,3520000,20,Time Limit Exceeded
+lyxhsx,C,3523000,0,Wrong Answer
+tyb,A,3524000,50,Wrong Answer
+nyyjshcz,C,3527000,100,Accepted
+Huangjunrui,D,3531000,0,Wrong Answer
+金弋帆,F,3533000,0,Compile Error
+sunjunhao,B,3533000,100,Accepted
+leoair,A,3554000,50,Wrong Answer
+hepeidong,B,3560000,1,Wrong Answer
+kqshengxuanyi,C,3568000,0,Wrong Answer
+deyi,A,3574000,20,Wrong Answer
+Zhaozhuoxi,A,3583000,100,Accepted
+kjh,B,3584000,1,Wrong Answer
+金弋帆,F,3587000,0,Compile Error
+高兴的高,E,3600000,5,Wrong Answer
+武川翔,B,3601000,100,Accepted
+金弋帆,F,3606000,0,Time Limit Exceeded
+何浩鲲,B,3607000,1,Wrong Answer
+deyi,A,3609000,50,Wrong Answer
+xiaoshu2010,E,3609000,5,Wrong Answer
+liuzeyuan,B,3610000,0,Compile Error
+kjh,B,3614000,1,Wrong Answer
+_FJqwq,F,3615000,30,Time Limit Exceeded
+snowycat1234,C,3615000,100,Accepted
+gty314159,D,3630000,100,Accepted
+张恺瑄,A,3657000,50,Wrong Answer
+HBYoutze,D,3661000,65,Wrong Answer
+xiaoshu2010,E,3662000,5,Wrong Answer
+HBYoutze,D,3669000,65,Wrong Answer
+何浩鲲,B,3672000,1,Wrong Answer
+H2ptimize,C,3676000,100,Accepted
+lyxhsx,C,3678000,0,Wrong Answer
+金弋帆,F,3680000,0,Wrong Answer
+cyq,D,3680000,9,Wrong Answer
+xieruyu,D,3680000,9,Wrong Answer
+唐宁泽,B,3683000,1,Wrong Answer
+weiyumo,A,3692000,50,Wrong Answer
+HL_CZY,B,3693000,1,Wrong Answer
+ini,E,3697000,0,Runtime Error
+liyuze,B,3700000,60,Wrong Answer
+刘添乐,E,3704000,0,Wrong Answer
+金弋帆,F,3710000,0,Wrong Answer
+sunjunhao,D,3715000,0,Wrong Answer
+huyanxin,A,3718000,50,Wrong Answer
+liyuze,B,3729000,100,Accepted
+陈邑宁,F,3738000,30,Time Limit Exceeded
+songhaoyu,A,3740000,20,Runtime Error
+唐宁泽,B,3750000,1,Wrong Answer
+罗一航,B,3752000,1,Wrong Answer
+kjh,B,3756000,1,Wrong Answer
+张智淏,B,3760000,1,Wrong Answer
+songhaoyu,A,3763000,20,Runtime Error
+DL24zhangyixin,B,3771000,1,Wrong Answer
+Zhaozhuoxi,B,3781000,1,Time Limit Exceeded
+leiyuhao,C,3788000,0,Wrong Answer
+张恺瑄,A,3788000,50,Wrong Answer
+唐宁泽,B,3790000,1,Wrong Answer
+袁瑞擎,A,3804000,50,Wrong Answer
+maguangxian,D,3806000,100,Accepted
+error,A,3814000,50,Wrong Answer
+wmyr,D,3821000,9,Wrong Answer
+曾浩,C,3821000,0,Wrong Answer
+DL24zhangyixin,B,3824000,1,Wrong Answer
+强强,B,3832000,1,Wrong Answer
+hepeidong,B,3839000,100,Accepted
+songzhihan,B,3851000,1,Wrong Answer
+weiyumo,A,3852000,50,Wrong Answer
+huyanxin,A,3853000,100,Accepted
+张智淏,B,3854000,1,Wrong Answer
+唐宁泽,B,3862000,1,Wrong Answer
+liuzeyuan,B,3866000,0,Compile Error
+songhaoyu,A,3885000,20,Runtime Error
+金弋帆,B,3890000,1,Wrong Answer
+曾浩,C,3896000,0,Wrong Answer
+lyxhsx,C,3896000,0,Wrong Answer
+XUSJ,D,3898000,0,Wrong Answer
+XUSJ,D,3909000,0,Wrong Answer
+wmyr,D,3913000,30,Wrong Answer
+金弋帆,F,3916000,0,Time Limit Exceeded
+XUSJ,D,3928000,0,Wrong Answer
+kjh,B,3931000,100,Accepted
+tiaotiao2011,E,3934000,100,Accepted
+XUSJ,D,3936000,0,Wrong Answer
+刘子墨,B,3936000,20,Time Limit Exceeded
+weiyumo,A,3938000,50,Wrong Answer
+DL24zhangyixin,B,3940000,100,Accepted
+MerlinLee,B,3943000,60,Wrong Answer
+songhaoyu,A,3946000,20,Runtime Error
+XUSJ,D,3946000,0,Wrong Answer
+jiazijian,B,3956000,1,Wrong Answer
+cyq,D,3958000,30,Wrong Answer
+songzhihan,B,3968000,1,Wrong Answer
+qzyzcmx,C,3983000,100,Accepted
+唐宁泽,B,3983000,1,Wrong Answer
+zhangchengrui,A,3997000,100,Accepted
+docxjun,D,3999000,0,Wrong Answer
+肖一鸣,D,4025000,0,Time Limit Exceeded
+肖皓天,B,4026000,100,Accepted
+xiaoshu2010,B,4031000,1,Wrong Answer
+yyz,C,4033000,0,Wrong Answer
+H2ptimize,B,4036000,1,Wrong Answer
+MerlinLee,A,4040000,20,Time Limit Exceeded
+刘添乐,F,4044000,30,Time Limit Exceeded
+docxjun,D,4049000,0,Wrong Answer
+leoair,A,4049000,100,Accepted
+HBYoutze,D,4060000,65,Wrong Answer
+qwqwq,E,4066000,100,Accepted
+zzy0618,D,4068000,20,Time Limit Exceeded
+Liuooo,B,4072000,1,Wrong Answer
+HBYoutze,D,4074000,65,Wrong Answer
+yyz,C,4086000,0,Wrong Answer
+hutianshuo,D,4091000,9,Wrong Answer
+方子豪,B,4095000,1,Wrong Answer
+QAQfj5,D,4097000,0,Wrong Answer
+MerlinLee,G,4101000,0,Runtime Error
+肖一鸣,D,4102000,30,Time Limit Exceeded
+kqshengxuanyi,C,4106000,100,Accepted
+郑宇,C,4113000,0,Wrong Answer
+QAQfj5,D,4113000,0,Wrong Answer
+ycn,C,4113000,0,Wrong Answer
+songhaoyu,E,4124000,0,Wrong Answer
+jk123,B,4129000,1,Wrong Answer
+lyxhsx,C,4129000,100,Accepted
+zhangce,C,4129000,100,Accepted
+唐宁泽,B,4130000,1,Wrong Answer
+方子豪,B,4132000,1,Time Limit Exceeded
+cpz0342,C,4143000,0,Wrong Answer
+wtxwd,C,4144000,100,Accepted
+QAQfj5,D,4145000,9,Wrong Answer
+zhengjinyi,D,4148000,30,Wrong Answer
+hutianshuo,A,4148000,100,Accepted
+yyz,C,4151000,0,Wrong Answer
+hutianshuo,B,4157000,100,Accepted
+hutianshuo,C,4165000,100,Accepted
+ycn,C,4168000,0,Compile Error
+ywz,F,4174000,30,Time Limit Exceeded
+linmou,D,4175000,0,Wrong Answer
+ycn,C,4180000,0,Wrong Answer
+docxjun,D,4183000,0,Wrong Answer
+zhengjinyi,D,4203000,50,Wrong Answer
+hutianshuo,D,4204000,0,Wrong Answer
+huyanxin,B,4207000,20,Time Limit Exceeded
+肖一鸣,D,4209000,30,Time Limit Exceeded
+曾浩,C,4211000,100,Accepted
+陈邑宁,D,4216000,0,Wrong Answer
+docxjun,D,4218000,0,Wrong Answer
+legendcn,B,4221000,1,Runtime Error
+Zhaozhuoxi,B,4225000,1,Time Limit Exceeded
+wuxian,A,4230000,50,Wrong Answer
+方子豪,B,4237000,1,Time Limit Exceeded
+liruoxin,B,4244000,1,Wrong Answer
+sunjunhao,D,4245000,0,Wrong Answer
+DL24luchengxiang,E,4246000,50,Wrong Answer
+legendcn,B,4247000,0,Compile Error
+linmou,D,4249000,0,Wrong Answer
+docxjun,D,4260000,30,Wrong Answer
+linmou,D,4263000,9,Wrong Answer
+ljy_xc,D,4278000,30,Wrong Answer
+legendcn,B,4281000,1,Runtime Error
+张恺瑄,B,4285000,60,Wrong Answer
+xieruyu,D,4287000,30,Wrong Answer
+陈邑宁,D,4295000,0,Wrong Answer
+huyanxin,B,4297000,20,Time Limit Exceeded
+chendingyan,A,4303000,50,Wrong Answer
+songhaoyu,A,4305000,50,Runtime Error
+cpz0342,C,4313000,0,Wrong Answer
+wmyr,D,4319000,30,Wrong Answer
+陈邑宁,D,4323000,9,Wrong Answer
+songhaoyu,A,4323000,100,Accepted
+何浩鲲,B,4335000,1,Wrong Answer
+legendcn,B,4339000,1,Runtime Error
+HBYoutze,D,4343000,65,Wrong Answer
+tyb,B,4353000,1,Wrong Answer
+error,B,4358000,1,Wrong Answer
+DL24luchengxiang,E,4358000,100,Accepted
+ljy_xc,D,4359000,100,Accepted
+jk123,B,4360000,1,Wrong Answer
+何浩鲲,B,4362000,1,Wrong Answer
+kjh,C,4367000,100,Accepted
+高兴的高,B,4370000,1,Time Limit Exceeded
+HL_CZY,D,4372000,9,Wrong Answer
+kqshengxuanyi,D,4374000,0,Wrong Answer
+傅凌龙,C,4378000,0,Wrong Answer
+sunjunhao,D,4383000,0,Wrong Answer
+legendcn,B,4383000,100,Accepted
+H2ptimize,B,4385000,1,Wrong Answer
+ycn,C,4388000,0,Wrong Answer
+MerlinLee,C,4392000,0,Wrong Answer
+PhirainEX,D,4393000,0,Wrong Answer
+sunjunhao,D,4411000,0,Wrong Answer
+刘子墨,A,4419000,20,Wrong Answer
+强强,B,4422000,1,Wrong Answer
+qzyzzgc,A,4425000,100,Accepted
+yinhaowei1205,B,4428000,20,Time Limit Exceeded
+PhirainEX,D,4433000,30,Wrong Answer
+肖一鸣,D,4438000,30,Time Limit Exceeded
+Harry,E,4438000,5,Wrong Answer
+tiaotiao2011,D,4439000,30,Wrong Answer
+songzhihan,B,4459000,1,Wrong Answer
+gty314159,E,4461000,43,Wrong Answer
+Zhaozhuoxi,B,4466000,60,Time Limit Exceeded
+HL_CZY,D,4475000,9,Wrong Answer
+zhangchengrui,B,4485000,100,Accepted
+张嘉祥,B,4486000,1,Wrong Answer
+肖一鸣,D,4489000,30,Wrong Answer
+sunjunhao,D,4498000,0,Wrong Answer
+HL_CZY,D,4501000,9,Wrong Answer
+HBYoutze,D,4502000,100,Accepted
+wmyr,D,4506000,30,Wrong Answer
+张嘉祥,B,4508000,1,Wrong Answer
+MerlinLee,A,4509000,20,Wrong Answer
+zlj6699tt,B,4514000,1,Wrong Answer
+陈邑宁,D,4517000,30,Wrong Answer
+Zhaozhuoxi,B,4520000,1,Wrong Answer
+何浩鲲,B,4531000,20,Time Limit Exceeded
+huyanxin,B,4538000,1,Time Limit Exceeded
+ini,F,4547000,30,Time Limit Exceeded
+tiaotiao2011,D,4569000,100,Accepted
+Liuooo,B,4580000,0,Compile Error
+张恺瑄,A,4583000,50,Wrong Answer
+yyz,A,4596000,0,Wrong Answer
+陈邑宁,D,4599000,30,Wrong Answer
+ycn,C,4602000,0,Wrong Answer
+liyuze,C,4606000,100,Accepted
+Liuooo,B,4612000,0,Compile Error
+ycn,C,4614000,0,Wrong Answer
+强强,B,4616000,1,Wrong Answer
+docxjun,D,4622000,30,Wrong Answer
+Liuooo,B,4623000,1,Wrong Answer
+QZ1Z-CQR,C,4631000,100,Accepted
+高兴的高,B,4632000,20,Time Limit Exceeded
+Zhaozhuoxi,B,4640000,1,Wrong Answer
+leiyuhao,C,4645000,0,Wrong Answer
+huangweiliang,A,4670000,50,Wrong Answer
+jk123,B,4673000,1,Wrong Answer
+linmou,D,4677000,0,Wrong Answer
+wxy2010,F,4694000,30,Time Limit Exceeded
+linmou,D,4700000,30,Wrong Answer
+zhangchengrui,D,4708000,30,Wrong Answer
+huyanxin,B,4714000,20,Time Limit Exceeded
+hexuben,D,4717000,9,Wrong Answer
+huangweiliang,A,4721000,50,Wrong Answer
+高兴的高,B,4724000,1,Time Limit Exceeded
+刘添乐,C,4730000,0,Wrong Answer
+杨育安,C,4736000,0,Wrong Answer
+强强,B,4744000,100,Accepted
+HL_CZY,B,4746000,1,Wrong Answer
+肖皓天,A,4749000,20,Time Limit Exceeded
+zhangce,D,4751000,30,Wrong Answer
+hepeidong,D,4760000,30,Wrong Answer
+何楷文,C,4762000,0,Wrong Answer
+kqshengxuanyi,D,4763000,0,Wrong Answer
+liruoxin,B,4780000,1,Wrong Answer
+MerlinLee,B,4786000,0,Compile Error
+曾浩,D,4788000,0,Wrong Answer
+weiyumo,B,4789000,1,Wrong Answer
+许文渊,E,4790000,0,Wrong Answer
+songhaoyu,B,4794000,1,Time Limit Exceeded
+HLOI_3_P045,C,4797000,0,Wrong Answer
+songzhihan,B,4800000,1,Wrong Answer
+张恺瑄,A,4800000,50,Wrong Answer
+王佳翔,A,4804000,20,Wrong Answer
+HL_CZY,B,4809000,1,Wrong Answer
+weiyumo,B,4810000,20,Time Limit Exceeded
+sunjunhao,D,4813000,9,Wrong Answer
+wtxwd,F,4813000,30,Time Limit Exceeded
+MerlinLee,B,4819000,1,Wrong Answer
+HLOI_3_P045,C,4822000,0,Wrong Answer
+杨育安,C,4823000,0,Wrong Answer
+何楷文,C,4829000,100,Accepted
+wmyr,D,4852000,15,Wrong Answer
+hexuben,D,4857000,30,Wrong Answer
+Zhaozhuoxi,B,4876000,60,Time Limit Exceeded
+sunjunhao,D,4878000,30,Wrong Answer
+张恺瑄,A,4878000,50,Wrong Answer
+jiazijian,C,4880000,0,Wrong Answer
+cyq,D,4888000,100,Accepted
+zlj6699tt,B,4894000,100,Accepted
+肖一鸣,D,4897000,100,Accepted
+zzy0618,D,4906000,0,Wrong Answer
+wtxwd,E,4906000,0,Runtime Error
+duchengzhu2008,B,4907000,100,Accepted
+songhaoyu,B,4908000,1,Wrong Answer
+Liuooo,B,4912000,1,Wrong Answer
+QAQfj5,D,4925000,30,Wrong Answer
+DL24zhangyixin,C,4938000,0,Wrong Answer
+yyz,A,4955000,0,Wrong Answer
+张嘉祥,B,4959000,1,Wrong Answer
+markding,B,4959000,100,Accepted
+曾浩,D,4969000,20,Wrong Answer
+ini,B,4978000,1,Wrong Answer
+gty314159,E,4983000,100,Accepted
+HBYoutze,C,4983000,0,Wrong Answer
+leiyuhao,C,4986000,100,Accepted
+wmyr,D,4988000,100,Accepted
+huangweiliang,A,4993000,100,Accepted
+snowycat1234,D,4997000,100,Accepted
+MerlinLee,D,5000000,0,Wrong Answer
+songzhihan,B,5001000,1,Wrong Answer
+jk123,B,5004000,1,Wrong Answer
+linmou,D,5017000,30,Wrong Answer
+sunjunhao,D,5017000,30,Wrong Answer
+markding,B,5024000,1,Wrong Answer
+qzyzzgc,C,5033000,100,Accepted
+error,B,5045000,1,Wrong Answer
+xiaoshu2010,B,5052000,1,Wrong Answer
+markding,B,5067000,1,Wrong Answer
+huyanxin,B,5072000,1,Time Limit Exceeded
+yinhaowei1205,B,5078000,1,Wrong Answer
+wuxian,A,5082000,100,Accepted
+wxy2010,F,5084000,70,Time Limit Exceeded
+王佳翔,A,5091000,100,Accepted
+张恺瑄,A,5092000,50,Wrong Answer
+zhengjinyi,A,5107000,50,Wrong Answer
+sunjunhao,D,5112000,30,Wrong Answer
+lyxhsx,D,5112000,9,Wrong Answer
+songzhihan,B,5113000,0,Compile Error
+docxjun,D,5125000,30,Wrong Answer
+huangshiyu,B,5128000,20,Time Limit Exceeded
+songzhihan,B,5132000,1,Wrong Answer
+huyanxin,B,5134000,1,Time Limit Exceeded
+yinhaowei1205,B,5165000,1,Wrong Answer
+hexuben,F,5165000,30,Time Limit Exceeded
+QAQfj5,D,5166000,100,Accepted
+songzhihan,B,5167000,1,Wrong Answer
+张恺瑄,A,5169000,50,Wrong Answer
+lyxhsx,D,5175000,9,Wrong Answer
+zhangchengrui,E,5176000,0,Wrong Answer
+HL_CZY,B,5181000,1,Wrong Answer
+张智淏,C,5183000,0,Wrong Answer
+dyt_dirt,B,5191000,0,Compile Error
+HL_CZY,B,5195000,1,Wrong Answer
+zhangchengrui,E,5202000,0,Wrong Answer
+PhirainEX,D,5207000,100,Accepted
+songzhihan,B,5212000,1,Wrong Answer
+dyt_dirt,B,5215000,60,Wrong Answer
+HL_CZY,B,5219000,1,Wrong Answer
+Liuooo,B,5226000,1,Wrong Answer
+ini,B,5231000,1,Wrong Answer
+huyanxin,B,5234000,20,Time Limit Exceeded
+zhangchengrui,D,5238000,30,Wrong Answer
+deyi,B,5242000,100,Accepted
+QAQfj5,E,5243000,0,Wrong Answer
+cpz0342,C,5244000,0,Wrong Answer
+songhaoyu,B,5245000,1,Wrong Answer
+曾浩,D,5246000,0,Wrong Answer
+dyt_dirt,B,5247000,100,Accepted
+zzy0618,D,5253000,50,Wrong Answer
+sunjunhao,D,5264000,30,Wrong Answer
+zzy0618,D,5268000,50,Wrong Answer
+Liuooo,B,5270000,1,Wrong Answer
+杨育安,C,5275000,0,Wrong Answer
+XUSJ,E,5276000,0,Wrong Answer
+ycn,C,5284000,100,Accepted
+zzy0618,D,5295000,100,Accepted
+曾浩,D,5295000,0,Compile Error
+sunjunhao,D,5309000,30,Wrong Answer
+何楷文,D,5312000,0,Wrong Answer
+曾浩,D,5316000,0,Wrong Answer
+yaoyanfeng,A,5329000,100,Accepted
+陈邑宁,D,5343000,20,Runtime Error
+wtxwd,D,5345000,20,Time Limit Exceeded
+huangshiyu,B,5350000,1,Runtime Error
+yinhaowei1205,B,5355000,20,Wrong Answer
+杨育安,C,5357000,100,Accepted
+陈邑宁,D,5359000,50,Wrong Answer
+kjh,D,5366000,0,Wrong Answer
+xieruyu,D,5367000,50,Memory Limit Exceeded
+huangshiyu,B,5372000,1,Runtime Error
+XUSJ,E,5378000,0,Wrong Answer
+ini,B,5381000,100,Accepted
+HLOI_3_P045,C,5382000,25,Wrong Answer
+zhangchengrui,D,5386000,30,Wrong Answer
+wmyr,E,5392000,0,Wrong Answer
+jk123,B,5394000,100,Accepted
+yinhaowei1205,B,5396000,0,Compile Error
+张恺瑄,A,5398000,50,Wrong Answer
+zhengjinyi,A,5399000,100,Accepted
+xieruyu,D,5399000,50,Memory Limit Exceeded
+tiaotiao2011,F,5400000,30,Time Limit Exceeded
+yinhaowei1205,B,5409000,20,Wrong Answer
+qhj,E,5418000,5,Wrong Answer
+huyanxin,B,5422000,20,Time Limit Exceeded
+HBYoutze,C,5439000,100,Accepted
+xieruyu,D,5441000,50,Memory Limit Exceeded
+wtxwd,D,5455000,50,Wrong Answer
+QZ1Z-CQR,D,5459000,100,Accepted
+BruceTong,B,5462000,1,Time Limit Exceeded
+Zhaozhuoxi,B,5464000,1,Wrong Answer
+susieli,C,5481000,0,Wrong Answer
+_FJqwq,G,5482000,60,Runtime Error
+ini,E,5482000,0,Runtime Error
+docxjun,D,5487000,50,Wrong Answer
+刘添乐,D,5490000,0,Wrong Answer
+zhangce,G,5495000,0,Time Limit Exceeded
+nyyjshcz,D,5496000,0,Wrong Answer
+郑宇,E,5498000,5,Wrong Answer
+liuzeyuan,C,5501000,0,Wrong Answer
+cpz0342,C,5504000,100,Accepted
+_FJqwq,G,5512000,60,Time Limit Exceeded
+songzhihan,C,5517000,0,Wrong Answer
+zhangchengrui,D,5526000,65,Wrong Answer
+zhangce,G,5537000,0,Time Limit Exceeded
+张恺瑄,A,5549000,50,Wrong Answer
+error,A,5553000,50,Wrong Answer
+gty314159,F,5553000,30,Time Limit Exceeded
+武川翔,C,5559000,0,Wrong Answer
+niusiyuan,B,5572000,1,Judgement Failed
+Harry,F,5575000,30,Time Limit Exceeded
+ywz,E,5576000,100,Accepted
+qzyzzgc,B,5582000,100,Accepted
+sunjunhao,D,5582000,30,Wrong Answer
+weiyumo,A,5592000,50,Wrong Answer
+杨育安,D,5593000,9,Wrong Answer
+niusiyuan,B,5595000,1,Wrong Answer
+zhangchengrui,D,5599000,50,Wrong Answer
+leiyuhao,B,5616000,1,Wrong Answer
+何楷文,D,5619000,0,Wrong Answer
+zhangchengrui,D,5627000,65,Wrong Answer
+qwqwq,F,5631000,0,Time Limit Exceeded
+何楷文,D,5645000,0,Wrong Answer
+张智淏,C,5646000,0,Wrong Answer
+xieruyu,D,5649000,100,Accepted
+xiaoshu2010,B,5655000,20,Time Limit Exceeded
+dyt_dirt,C,5655000,0,Wrong Answer
+张恺瑄,A,5671000,50,Wrong Answer
+张恺瑄,A,5678000,50,Wrong Answer
+zhangce,E,5683000,0,Wrong Answer
+sunjunhao,D,5692000,30,Wrong Answer
+ljy_xc,E,5696000,5,Wrong Answer
+MerlinLee,A,5700000,20,Wrong Answer
+何楷文,D,5700000,9,Wrong Answer
+何浩鲲,E,5705000,0,Wrong Answer
+sunjunhao,D,5708000,30,Wrong Answer
+郑宇,E,5717000,5,Wrong Answer
+_FJqwq,G,5718000,60,Time Limit Exceeded
+weiyumo,A,5718000,100,Accepted
+docxjun,D,5731000,0,Wrong Answer
+肖皓天,C,5739000,100,Accepted
+sunjunhao,D,5742000,30,Wrong Answer
+HBYoutze,E,5742000,5,Wrong Answer
+nyyjshcz,D,5752000,0,Wrong Answer
+huangshiyu,B,5756000,100,Accepted
+tyb,F,5757000,30,Time Limit Exceeded
+zhangzihan_Yuuki Asuna,B,5758000,1,Runtime Error
+zhangchengrui,D,5760000,100,Accepted
+kqshengxuanyi,E,5763000,5,Wrong Answer
+leiyuhao,B,5764000,1,Wrong Answer
+songzhihan,C,5764000,0,Wrong Answer
+夏天天,B,5765000,1,Wrong Answer
+yaoyanfeng,B,5772000,1,Wrong Answer
+Nihachu,C,5775000,100,Accepted
+yangbowen,A,5779000,50,Wrong Answer
+lyxhsx,D,5789000,0,Wrong Answer
+张恺瑄,A,5792000,100,Accepted
+chendingyan,F,5802000,30,Time Limit Exceeded
+zhangzihan_Yuuki Asuna,B,5804000,1,Runtime Error
+niusiyuan,B,5806000,60,Wrong Answer
+snowycat1234,E,5809000,5,Wrong Answer
+夏天天,B,5820000,1,Wrong Answer
+nyyjshcz,D,5822000,0,Wrong Answer
+lyxhsx,D,5838000,0,Wrong Answer
+songzhihan,C,5839000,0,Wrong Answer
+yaoyanfeng,B,5842000,1,Wrong Answer
+yaoyanfeng,B,5850000,100,Accepted
+zlj6699tt,F,5854000,30,Time Limit Exceeded
+nyyjshcz,D,5855000,20,Time Limit Exceeded
+Liuooo,B,5858000,1,Wrong Answer
+HL_CZY,F,5860000,30,Time Limit Exceeded
+leiyuhao,B,5864000,1,Wrong Answer
+夏天天,B,5874000,100,Accepted
+zzy0618,E,5876000,23,Time Limit Exceeded
+杨育安,D,5880000,30,Wrong Answer
+蔡杨煜,G,5890000,0,Time Limit Exceeded
+leiyuhao,B,5892000,1,Wrong Answer
+zhangzihan_Yuuki Asuna,B,5897000,1,Runtime Error
+docxjun,D,5899000,30,Wrong Answer
+snowycat1234,E,5900000,0,Runtime Error
+武川翔,C,5902000,0,Wrong Answer
+markding,C,5904000,0,Runtime Error
+yinhaowei1205,B,5922000,1,Time Limit Exceeded
+武川翔,C,5924000,0,Wrong Answer
+蔡杨煜,G,5933000,10,Wrong Answer
+songzhihan,C,5945000,100,Accepted
+何浩鲲,E,5953000,5,Wrong Answer
+liyuze,D,5963000,0,Compile Error
+cpz0342,A,5968000,50,Wrong Answer
+ycn,B,5979000,60,Time Limit Exceeded
+niusiyuan,B,5982000,60,Wrong Answer
+蔡杨煜,G,5985000,10,Wrong Answer
+liyuze,D,5988000,0,Wrong Answer
+wtxwd,E,5988000,5,Wrong Answer
+ycn,B,6003000,60,Time Limit Exceeded
+罗一航,A,6008000,100,Accepted
+何楷文,D,6017000,30,Wrong Answer
+qzyzzgc,D,6025000,9,Wrong Answer
+niusiyuan,B,6032000,100,Accepted
+liyuze,D,6034000,9,Wrong Answer
+ycn,B,6035000,100,Accepted
+cpz0342,A,6039000,50,Wrong Answer
+张恺瑄,B,6042000,60,Wrong Answer
+HL_CZY,E,6045000,0,Wrong Answer
+ycn,B,6058000,20,Time Limit Exceeded
+ycn,B,6071000,100,Accepted
+dyt_dirt,C,6078000,0,Wrong Answer
+leiyuhao,B,6079000,1,Wrong Answer
+Liuooo,B,6088000,1,Wrong Answer
+郑宇,E,6096000,0,Wrong Answer
+zzy0618,E,6100000,23,Time Limit Exceeded
+ljy_xc,E,6101000,0,Wrong Answer
+高兴的高,B,6102000,1,Time Limit Exceeded
+ycn,B,6104000,60,Time Limit Exceeded
+wtxwd,E,6105000,5,Wrong Answer
+luyuyang,E,6105000,5,Wrong Answer
+yinhaowei1205,B,6105000,1,Time Limit Exceeded
+docxjun,D,6113000,20,Time Limit Exceeded
+cpz0342,A,6114000,100,Accepted
+ycn,B,6118000,60,Time Limit Exceeded
+maguangxian,E,6125000,5,Wrong Answer
+强强,C,6133000,100,Accepted
+ycn,B,6134000,100,Accepted
+张恺瑄,B,6139000,60,Wrong Answer
+zhangce,E,6141000,5,Wrong Answer
+yangbowen,A,6141000,50,Wrong Answer
+sunjunhao,E,6142000,0,Wrong Answer
+BruceTong,B,6150000,1,Time Limit Exceeded
+Liuooo,B,6151000,20,Wrong Answer
+liyuze,D,6154000,9,Wrong Answer
+yyz,A,6154000,50,Wrong Answer
+何楷文,D,6158000,30,Wrong Answer
+杨育安,E,6159000,0,Wrong Answer
+BruceTong,B,6162000,1,Time Limit Exceeded
+dyt_dirt,C,6165000,0,Wrong Answer
+xiaoshu2010,B,6177000,1,Wrong Answer
+songzhihan,E,6179000,5,Wrong Answer
+sunjunhao,E,6186000,0,Wrong Answer
+yaoyanfeng,C,6187000,0,Wrong Answer
+yinhaowei1205,B,6191000,1,Time Limit Exceeded
+yaoyanfeng,C,6201000,100,Accepted
+qhj,E,6218000,5,Time Limit Exceeded
+markding,C,6218000,0,Wrong Answer
+高兴的高,B,6220000,1,Wrong Answer
+BruceTong,B,6221000,20,Time Limit Exceeded
+曾浩,F,6224000,0,Wrong Answer
+qzyzzgc,D,6226000,9,Wrong Answer
+Liuooo,B,6231000,20,Wrong Answer
+XUSJ,H,6239000,0,Wrong Answer
+markding,C,6242000,0,Wrong Answer
+songzhihan,B,6250000,1,Wrong Answer
+sunjunhao,E,6263000,23,Wrong Answer
+huangweiliang,E,6265000,5,Wrong Answer
+zhangce,E,6272000,5,Wrong Answer
+liruoxin,B,6273000,100,Accepted
+Huangjunrui,D,6294000,0,Wrong Answer
+tjy,C,6295000,0,Runtime Error
+songzhihan,B,6303000,1,Wrong Answer
+XUSJ,H,6306000,0,Wrong Answer
+何楷文,D,6314000,30,Wrong Answer
+linmou,D,6333000,0,Time Limit Exceeded
+高兴的高,B,6339000,1,Wrong Answer
+武川翔,C,6340000,0,Wrong Answer
+markding,C,6340000,0,Wrong Answer
+songzhihan,B,6345000,0,Compile Error
+zhangce,E,6346000,5,Wrong Answer
+高兴的高,B,6354000,1,Wrong Answer
+lyxhsx,D,6355000,0,Wrong Answer
+zzy0618,E,6357000,23,Time Limit Exceeded
+zhengjinyi,E,6359000,5,Wrong Answer
+linmou,E,6360000,0,Wrong Answer
+金弋帆,B,6360000,20,Time Limit Exceeded
+songzhihan,B,6364000,1,Wrong Answer
+何楷文,D,6365000,30,Wrong Answer
+郑宇,E,6366000,0,Wrong Answer
+Zhaozhuoxi,F,6378000,30,Time Limit Exceeded
+linmou,E,6384000,0,Wrong Answer
+zhangce,E,6386000,5,Wrong Answer
+gty314159,G,6391000,20,Wrong Answer
+songzhihan,B,6394000,1,Wrong Answer
+高兴的高,B,6396000,1,Wrong Answer
+huangweiliang,E,6398000,0,Wrong Answer
+kjh,D,6401000,30,Wrong Answer
+dyt_dirt,C,6409000,0,Wrong Answer
+luyuyang,F,6420000,30,Time Limit Exceeded
+huangweiliang,E,6420000,5,Wrong Answer
+Liuooo,C,6424000,0,Wrong Answer
+高兴的高,B,6436000,1,Wrong Answer
+张恺瑄,C,6436000,0,Wrong Answer
+linmou,D,6440000,30,Wrong Answer
+强强,D,6444000,9,Time Limit Exceeded
+lyxhsx,D,6459000,0,Wrong Answer
+XUSJ,H,6467000,0,Wrong Answer
+袁瑞擎,F,6475000,30,Time Limit Exceeded
+金弋帆,B,6477000,20,Time Limit Exceeded
+linmou,D,6480000,30,Wrong Answer
+xieruyu,E,6485000,43,Wrong Answer
+zhengjinyi,E,6485000,5,Wrong Answer
+何楷文,D,6486000,30,Wrong Answer
+linmou,D,6494000,30,Wrong Answer
+maguangxian,E,6497000,50,Wrong Answer
+markding,C,6504000,0,Wrong Answer
+linmou,D,6505000,30,Wrong Answer
+曾浩,F,6507000,30,Time Limit Exceeded
+lyxhsx,D,6514000,0,Wrong Answer
+刘添乐,B,6517000,100,Accepted
+linmou,D,6517000,0,Time Limit Exceeded
+markding,C,6522000,0,Wrong Answer
+ini,E,6525000,0,Runtime Error
+linmou,D,6534000,30,Time Limit Exceeded
+dyt_dirt,C,6536000,0,Wrong Answer
+强强,D,6539000,9,Time Limit Exceeded
+zzy0618,E,6540000,23,Time Limit Exceeded
+Liuooo,C,6541000,0,Wrong Answer
+maguangxian,E,6544000,50,Wrong Answer
+傅凌龙,E,6551000,0,Wrong Answer
+袁瑞擎,D,6560000,0,Wrong Answer
+cpz0342,D,6580000,30,Wrong Answer
+BruceTong,B,6585000,20,Time Limit Exceeded
+ini,E,6593000,0,Runtime Error
+xiaoshu2010,D,6594000,9,Wrong Answer
+袁瑞擎,D,6595000,9,Wrong Answer
+sunjunhao,E,6595000,0,Wrong Answer
+ljy_xc,E,6608000,0,Wrong Answer
+何楷文,D,6614000,30,Wrong Answer
+nyyjshcz,D,6629000,30,Wrong Answer
+leiyuhao,B,6635000,100,Accepted
+docxjun,D,6635000,50,Wrong Answer
+金弋帆,B,6639000,20,Time Limit Exceeded
+ljy_xc,E,6647000,20,Wrong Answer
+Zhaozhuoxi,C,6655000,0,Wrong Answer
+sunjunhao,E,6662000,5,Wrong Answer
+leoair,D,6663000,0,Wrong Answer
+何楷文,D,6666000,30,Wrong Answer
+金弋帆,B,6672000,20,Time Limit Exceeded
+ycn,D,6677000,9,Wrong Answer
+kqshengxuanyi,E,6677000,11,Wrong Answer
+error,C,6700000,100,Accepted
+金弋帆,B,6701000,20,Time Limit Exceeded
+markding,C,6707000,0,Wrong Answer
+jk123,C,6713000,0,Runtime Error
+hexuben,D,6713000,50,Wrong Answer
+傅凌龙,E,6717000,0,Wrong Answer
+ini,E,6717000,18,Runtime Error
+tjy,C,6723000,0,Runtime Error
+markding,C,6728000,100,Accepted
+傅凌龙,E,6729000,0,Wrong Answer
+何楷文,D,6738000,30,Wrong Answer
+Harry,E,6749000,100,Accepted
+ywz,H,6751000,10,Time Limit Exceeded
+强强,D,6757000,0,Time Limit Exceeded
+jk123,C,6767000,0,Wrong Answer
+weiyumo,F,6776000,30,Time Limit Exceeded
+kqshengxuanyi,E,6784000,5,Wrong Answer
+强强,D,6785000,9,Wrong Answer
+sunjunhao,E,6789000,18,Wrong Answer
+dyt_dirt,C,6790000,0,Wrong Answer
+yangbowen,B,6791000,1,Time Limit Exceeded
+yyz,A,6792000,50,Wrong Answer
+xiaoshu2010,D,6792000,9,Wrong Answer
+nyyjshcz,D,6795000,20,Time Limit Exceeded
+linmou,D,6804000,30,Wrong Answer
+jk123,C,6809000,0,Wrong Answer
+高兴的高,B,6811000,1,Wrong Answer
+yinhaowei1205,B,6813000,1,Time Limit Exceeded
+蔡杨煜,G,6821000,10,Wrong Answer
+tjy,C,6824000,0,Runtime Error
+蔡杨煜,G,6833000,10,Wrong Answer
+susieli,C,6841000,100,Accepted
+HLOI_3_P045,E,6842000,5,Wrong Answer
+leoair,D,6849000,0,Wrong Answer
+linmou,D,6856000,30,Wrong Answer
+hexuben,E,6857000,18,Wrong Answer
+张智淏,C,6860000,0,Wrong Answer
+Liuooo,B,6861000,20,Wrong Answer
+yangbowen,B,6868000,1,Time Limit Exceeded
+HL_CZY,B,6871000,1,Wrong Answer
+强强,D,6878000,9,Wrong Answer
+fangzichang,G,6880000,100,Accepted
+武川翔,C,6882000,100,Accepted
+xieruyu,E,6893000,100,Accepted
+ywz,G,6899000,0,Wrong Answer
+Zhaozhuoxi,B,6902000,20,Time Limit Exceeded
+MerlinLee,A,6905000,30,Wrong Answer
+wtxwd,E,6914000,0,Time Limit Exceeded
+肖皓天,D,6919000,0,Wrong Answer
+susieli,C,6922000,100,Accepted
+linmou,D,6927000,50,Wrong Answer
+leoair,D,6929000,0,Runtime Error
+杨育安,F,6950000,30,Time Limit Exceeded
+PhirainEX,E,6952000,100,Accepted
+hexuben,E,6954000,18,Wrong Answer
+cyq,E,6959000,50,Time Limit Exceeded
+ywz,G,6972000,20,Wrong Answer
+zhengjinyi,E,6998000,5,Wrong Answer
+金弋帆,B,7002000,0,Compile Error
+MerlinLee,A,7006000,30,Wrong Answer
+docxjun,D,7006000,100,Accepted
+linmou,E,7014000,0,Wrong Answer
+金弋帆,B,7021000,1,Time Limit Exceeded
+HL_CZY,B,7027000,100,Accepted
+songzhihan,F,7038000,30,Time Limit Exceeded
+linmou,E,7046000,0,Wrong Answer
+MerlinLee,A,7053000,50,Wrong Answer
+金弋帆,B,7064000,1,Time Limit Exceeded
+蔡杨煜,F,7070000,0,Time Limit Exceeded
+linmou,E,7073000,0,Wrong Answer
+hexuben,E,7073000,45,Wrong Answer
+leoair,D,7081000,20,Runtime Error
+luyuyang,E,7100000,5,Wrong Answer
+hjj,B,7101000,1,Wrong Answer
+xiaoshu2010,B,7102000,0,Compile Error
+huyanxin,B,7107000,20,Runtime Error
+张智淏,C,7109000,0,Wrong Answer
+linmou,E,7111000,0,Wrong Answer
+cpz0342,D,7123000,0,Wrong Answer
+蔡杨煜,F,7126000,0,Time Limit Exceeded
+tjy,C,7127000,0,Runtime Error
+MerlinLee,A,7129000,0,Compile Error
+thomaswmy,G,7139000,100,Accepted
+tjy,C,7143000,0,Runtime Error
+MerlinLee,A,7144000,50,Wrong Answer
+dyt_dirt,C,7154000,100,Accepted
+qzyzzgc,E,7154000,0,Wrong Answer
+xiaoshu2010,B,7154000,1,Wrong Answer
+tyb,E,7155000,0,Wrong Answer
+qhj,E,7161000,5,Time Limit Exceeded
+liyuze,D,7163000,0,Runtime Error
+何楷文,F,7170000,30,Time Limit Exceeded
+deyi,C,7174000,0,Wrong Answer
+yinhaowei1205,B,7185000,100,Accepted
+tjy,C,7195000,0,Runtime Error
+曾浩,E,7200000,0,Wrong Answer
+liyuze,D,7200000,30,Wrong Answer
+songhaoyu,B,7203000,1,Wrong Answer
+songzhihan,B,7204000,1,Wrong Answer
+金弋帆,B,7207000,1,Time Limit Exceeded
+郑宇,E,7208000,2,Wrong Answer
+cpz0342,D,7211000,30,Wrong Answer
+张恺瑄,F,7214000,30,Time Limit Exceeded
+Liuooo,B,7214000,0,Compile Error
+maguangxian,E,7215000,50,Wrong Answer
+王佳翔,E,7218000,5,Wrong Answer
+MerlinLee,A,7221000,0,Compile Error
+金弋帆,B,7225000,1,Time Limit Exceeded
+songhaoyu,B,7227000,60,Wrong Answer
+hjj,B,7230000,1,Wrong Answer
+MerlinLee,A,7233000,0,Compile Error
+Huangjunrui,D,7233000,0,Wrong Answer
+Liuooo,B,7234000,0,Compile Error
+cyq,F,7238000,30,Time Limit Exceeded
+金弋帆,B,7241000,20,Time Limit Exceeded
+sunjunhao,F,7244000,30,Time Limit Exceeded
+wtxwd,E,7248000,50,Time Limit Exceeded
+MerlinLee,A,7255000,50,Wrong Answer
+huangshiyu,C,7262000,0,Wrong Answer
+qhj,E,7267000,0,Time Limit Exceeded
+docxjun,F,7274000,30,Time Limit Exceeded
+H2ptimize,D,7284000,0,Wrong Answer
+tiaotiao2011,G,7289000,20,Wrong Answer
+huangshiyu,C,7289000,0,Wrong Answer
+cpz0342,D,7292000,30,Wrong Answer
+yyz,B,7294000,1,Wrong Answer
+zhangchengrui,G,7295000,50,Runtime Error
+强强,D,7313000,9,Wrong Answer
+Liuooo,B,7314000,100,Accepted
+金弋帆,B,7326000,20,Time Limit Exceeded
+ycn,D,7327000,0,Compile Error
+袁瑞擎,A,7341000,100,Accepted
+何浩鲲,F,7342000,0,Time Limit Exceeded
+金弋帆,B,7345000,20,Time Limit Exceeded
+ycn,D,7346000,30,Wrong Answer
+maguangxian,E,7352000,50,Wrong Answer
+huangshiyu,C,7354000,0,Wrong Answer
+H2ptimize,D,7359000,9,Wrong Answer
+夏天天,F,7362000,0,Time Limit Exceeded
+duchengzhu2008,D,7363000,0,Runtime Error
+肖皓天,F,7367000,30,Time Limit Exceeded
+高兴的高,B,7371000,1,Wrong Answer
+jiazijian,C,7372000,0,Wrong Answer
+qzyzcmx,B,7374000,1,Runtime Error
+xieruyu,F,7389000,30,Time Limit Exceeded
+Zhaozhuoxi,B,7391000,60,Time Limit Exceeded
+XUSJ,G,7395000,0,Wrong Answer
+yyz,B,7396000,1,Wrong Answer
+jyy0806,B,7411000,1,Wrong Answer
+markding,D,7417000,0,Wrong Answer
+qzyzcmx,B,7419000,1,Runtime Error
+hutianshuo,E,7425000,100,Accepted
+qhj,E,7427000,5,Wrong Answer
+markding,D,7431000,9,Wrong Answer
+Zhaozhuoxi,B,7438000,100,Accepted
+fangzichang,E,7446000,5,Wrong Answer
+XUSJ,G,7450000,0,Wrong Answer
+zhangchengrui,G,7452000,50,Time Limit Exceeded
+唐宁泽,F,7461000,30,Time Limit Exceeded
+tjy,E,7464000,0,Wrong Answer
+曾浩,E,7480000,0,Compile Error
+金弋帆,B,7481000,20,Time Limit Exceeded
+夏天天,F,7484000,30,Time Limit Exceeded
+cpz0342,D,7488000,30,Wrong Answer
+qzyzzgc,F,7506000,30,Time Limit Exceeded
+zhangzihan_Yuuki Asuna,B,7507000,100,Accepted
+kjh,D,7507000,30,Wrong Answer
+markding,D,7507000,9,Wrong Answer
+QAQfj5,E,7509000,50,Time Limit Exceeded
+qhj,E,7513000,0,Time Limit Exceeded
+蔡杨煜,F,7522000,0,Time Limit Exceeded
+Liuooo,C,7526000,0,Wrong Answer
+qhj,E,7531000,5,Time Limit Exceeded
+sunjunhao,G,7541000,0,Wrong Answer
+陈邑宁,E,7541000,0,Wrong Answer
+高兴的高,B,7541000,1,Wrong Answer
+Liuooo,C,7542000,0,Wrong Answer
+武川翔,E,7544000,0,Compile Error
+qhj,E,7548000,5,Time Limit Exceeded
+BruceTong,B,7551000,1,Wrong Answer
+fangzichang,E,7553000,5,Wrong Answer
+强强,D,7555000,15,Wrong Answer
+wmyr,E,7558000,45,Runtime Error
+sunjunhao,G,7561000,0,Wrong Answer
+武川翔,E,7573000,0,Wrong Answer
+maguangxian,F,7575000,30,Time Limit Exceeded
+yyz,A,7582000,50,Wrong Answer
+lyxhsx,D,7582000,0,Wrong Answer
+markding,D,7583000,9,Wrong Answer
+deyi,C,7583000,0,Wrong Answer
+hutianshuo,D,7584000,0,Wrong Answer
+BruceTong,B,7584000,20,Time Limit Exceeded
+sunjunhao,G,7585000,0,Wrong Answer
+gty314159,G,7589000,60,Time Limit Exceeded
+何楷文,D,7591000,30,Wrong Answer
+傅凌龙,B,7602000,1,Time Limit Exceeded
+deyi,C,7603000,0,Compile Error
+wmyr,E,7604000,45,Runtime Error
+袁瑞擎,A,7605000,100,Accepted
+曾浩,E,7607000,5,Wrong Answer
+deyi,C,7613000,0,Wrong Answer
+zhangchengrui,G,7615000,50,Time Limit Exceeded
+sunjunhao,G,7619000,0,Wrong Answer
+ljy_xc,E,7622000,20,Time Limit Exceeded
+kjh,D,7631000,30,Wrong Answer
+何浩鲲,B,7633000,20,Time Limit Exceeded
+deyi,C,7651000,0,Wrong Answer
+hexuben,D,7657000,50,Wrong Answer
+nyyjshcz,D,7660000,0,Wrong Answer
+zhangzihan_Yuuki Asuna,E,7665000,0,Wrong Answer
+zhangchengrui,G,7670000,50,Time Limit Exceeded
+武川翔,E,7676000,0,Wrong Answer
+legendcn,D,7679000,100,Accepted
+nyyjshcz,D,7682000,100,Accepted
+kqshengxuanyi,E,7683000,5,Wrong Answer
+强强,D,7689000,0,Compile Error
+ljy_xc,E,7694000,20,Time Limit Exceeded
+方子豪,C,7702000,0,Compile Error
+强强,D,7709000,15,Wrong Answer
+sunjunhao,G,7711000,0,Wrong Answer
+maguangxian,E,7716000,50,Wrong Answer
+kjh,D,7716000,30,Wrong Answer
+jiazijian,C,7717000,0,Wrong Answer
+jiangyiyang,C,7719000,100,Accepted
+duchengzhu2008,C,7723000,0,Wrong Answer
+Zhaozhuoxi,D,7724000,0,Wrong Answer
+weiyumo,E,7726000,0,Wrong Answer
+PhirainEX,G,7734000,0,Wrong Answer
+zhangchengrui,G,7735000,50,Time Limit Exceeded
+BruceTong,B,7735000,100,Accepted
+何楷文,D,7742000,30,Wrong Answer
+xiaoshu2010,B,7749000,1,Wrong Answer
+方子豪,C,7749000,0,Compile Error
+陈邑宁,E,7752000,50,Time Limit Exceeded
+zhangce,F,7758000,30,Time Limit Exceeded
+docxjun,E,7758000,5,Wrong Answer
+PhirainEX,G,7771000,0,Wrong Answer
+xiaoshu2010,B,7773000,1,Wrong Answer
+DL24luchengxiang,G,7773000,50,Time Limit Exceeded
+方子豪,C,7776000,0,Time Limit Exceeded
+DL24zhangyixin,E,7778000,43,Wrong Answer
+zzy0618,F,7780000,30,Time Limit Exceeded
+wtxwd,E,7780000,50,Time Limit Exceeded
+杨育安,G,7787000,20,Wrong Answer
+许文渊,B,7789000,1,Wrong Answer
+zhangchengrui,G,7790000,60,Time Limit Exceeded
+hutianshuo,F,7797000,30,Time Limit Exceeded
+xiaoshu2010,B,7797000,1,Wrong Answer
+金弋帆,B,7798000,20,Time Limit Exceeded
+kjh,D,7799000,30,Wrong Answer
+Nihachu,D,7807000,30,Wrong Answer
+方子豪,D,7807000,0,Wrong Answer
+许文渊,B,7808000,1,Wrong Answer
+PhirainEX,G,7813000,20,Wrong Answer
+MerlinLee,F,7813000,0,Time Limit Exceeded
+ywz,G,7816000,50,Memory Limit Exceeded
+zhengjinyi,F,7823000,30,Time Limit Exceeded
+kjh,D,7824000,50,Wrong Answer
+luyuyang,E,7829000,50,Time Limit Exceeded
+罗一航,B,7836000,1,Time Limit Exceeded
+H2ptimize,D,7837000,30,Wrong Answer
+jiazijian,C,7839000,0,Wrong Answer
+wmyr,E,7847000,45,Runtime Error
+legendcn,E,7855000,0,Wrong Answer
+hepeidong,D,7870000,100,Accepted
+xiaoshu2010,B,7873000,1,Wrong Answer
+hutianshuo,D,7881000,0,Wrong Answer
+肖皓天,D,7892000,9,Wrong Answer
+hutianshuo,D,7893000,0,Wrong Answer
+sunjunhao,G,7906000,20,Wrong Answer
+yinhaowei1205,F,7913000,30,Time Limit Exceeded
+tjy,A,7916000,50,Wrong Answer
+maguangxian,E,7917000,50,Wrong Answer
+jiazijian,C,7923000,0,Wrong Answer
+陈邑宁,E,7928000,0,Wrong Answer
+何楷文,D,7938000,30,Wrong Answer
+MerlinLee,F,7938000,0,Time Limit Exceeded
+高兴的高,B,7943000,100,Accepted
+袁瑞擎,C,7948000,0,Wrong Answer
+许文渊,B,7949000,1,Wrong Answer
+ywz,G,7949000,50,Memory Limit Exceeded
+hutianshuo,D,7964000,9,Wrong Answer
+liuzeyuan,F,7965000,0,Runtime Error
+何楷文,D,7974000,50,Wrong Answer
+luyuyang,E,7975000,50,Time Limit Exceeded
+kqshengxuanyi,E,7977000,50,Wrong Answer
+hutianshuo,D,7983000,9,Wrong Answer
+强强,D,7983000,15,Wrong Answer
+HL_CZY,E,7986000,0,Compile Error
+ywz,G,7995000,60,Wrong Answer
+HL_CZY,E,7996000,0,Wrong Answer
+sunjunhao,G,8004000,0,Wrong Answer
+duchengzhu2008,C,8016000,100,Accepted
+sunjunhao,G,8017000,20,Wrong Answer
+DL24zhangyixin,C,8018000,0,Wrong Answer
+tjy,A,8020000,50,Wrong Answer
+huangshiyu,C,8021000,25,Wrong Answer
+何浩鲲,B,8026000,1,Wrong Answer
+cpz0342,E,8032000,0,Compile Error
+xiaoshu2010,B,8038000,0,Compile Error
+H2ptimize,B,8044000,1,Wrong Answer
+cpz0342,E,8049000,0,Compile Error
+xiaoshu2010,B,8060000,1,Wrong Answer
+leoair,D,8062000,0,Wrong Answer
+ini,C,8066000,25,Wrong Answer
+yyz,A,8071000,50,Wrong Answer
+snowycat1234,E,8071000,100,Accepted
+傅凌龙,A,8076000,0,Compile Error
+陈邑宁,E,8084000,50,Time Limit Exceeded
+leoair,D,8085000,0,Wrong Answer
+XUSJ,B,8086000,20,Time Limit Exceeded
+Nihachu,D,8097000,0,Wrong Answer
+肖皓天,D,8098000,9,Wrong Answer
+傅凌龙,A,8104000,50,Wrong Answer
+陈邑宁,E,8107000,50,Time Limit Exceeded
+liuzeyuan,B,8112000,0,Compile Error
+wmyr,E,8123000,50,Wrong Answer
+kqshengxuanyi,E,8127000,0,Runtime Error
+tjy,A,8129000,50,Wrong Answer
+deyi,C,8130000,100,Accepted
+Zhaozhuoxi,D,8130000,9,Wrong Answer
+何楷文,G,8131000,20,Wrong Answer
+Nihachu,D,8134000,30,Wrong Answer
+MerlinLee,F,8135000,0,Compile Error
+zzy0618,E,8139000,50,Time Limit Exceeded
+yyz,A,8145000,50,Wrong Answer
+kqshengxuanyi,E,8148000,45,Runtime Error
+ini,C,8159000,100,Accepted
+leoair,D,8167000,0,Wrong Answer
+DL24zhangyixin,C,8172000,0,Wrong Answer
+XUSJ,B,8176000,1,Time Limit Exceeded
+leoair,D,8180000,0,Wrong Answer
+tiaotiao2011,H,8181000,10,Runtime Error
+Huangjunrui,D,8186000,6,Wrong Answer
+liuzeyuan,B,8192000,0,Compile Error
+金弋帆,B,8194000,20,Time Limit Exceeded
+XUSJ,B,8202000,1,Time Limit Exceeded
+yinhaowei1205,E,8208000,0,Wrong Answer
+何浩鲲,B,8212000,0,Time Limit Exceeded
+张恺瑄,B,8213000,60,Wrong Answer
+leoair,D,8224000,30,Wrong Answer
+H2ptimize,B,8224000,100,Accepted
+强强,D,8236000,9,Wrong Answer
+高兴的高,C,8240000,0,Wrong Answer
+蔡杨煜,B,8240000,1,Time Limit Exceeded
+XUSJ,B,8244000,1,Time Limit Exceeded
+kqshengxuanyi,E,8245000,50,Wrong Answer
+xieruyu,G,8248000,0,Wrong Answer
+何浩鲲,B,8250000,1,Time Limit Exceeded
+XUSJ,B,8259000,20,Time Limit Exceeded
+songzhihan,E,8262000,18,Wrong Answer
+曾浩,E,8264000,5,Wrong Answer
+MerlinLee,F,8266000,0,Compile Error
+何楷文,E,8272000,0,Wrong Answer
+何楷文,E,8285000,0,Wrong Answer
+xieruyu,G,8288000,20,Wrong Answer
+DL24zhangyixin,C,8292000,0,Wrong Answer
+金弋帆,B,8294000,20,Time Limit Exceeded
+susieli,F,8308000,30,Time Limit Exceeded
+yyz,A,8312000,20,Wrong Answer
+蔡杨煜,B,8321000,1,Time Limit Exceeded
+huangshiyu,C,8324000,0,Wrong Answer
+xiaoshu2010,E,8328000,0,Wrong Answer
+ini,D,8338000,0,Wrong Answer
+傅凌龙,B,8345000,1,Runtime Error
+MerlinLee,F,8350000,0,Memory Limit Exceeded
+肖皓天,D,8350000,0,Wrong Answer
+XUSJ,B,8352000,20,Time Limit Exceeded
+yyz,A,8360000,100,Accepted
+曾浩,E,8362000,5,Wrong Answer
+陈邑宁,E,8363000,0,Wrong Answer
+张恺瑄,B,8367000,60,Wrong Answer
+maguangxian,E,8368000,50,Wrong Answer
+wxy2010,A,8382000,100,Accepted
+强强,D,8383000,0,Wrong Answer
+XUSJ,B,8387000,1,Time Limit Exceeded
+wmyr,E,8394000,50,Wrong Answer
+maguangxian,E,8406000,0,Wrong Answer
+XUSJ,B,8407000,1,Time Limit Exceeded
+Harry,G,8416000,10,Wrong Answer
+肖皓天,D,8422000,9,Wrong Answer
+蔡杨煜,B,8423000,1,Time Limit Exceeded
+Nihachu,D,8428000,30,Wrong Answer
+tjy,B,8433000,1,Wrong Answer
+张恺瑄,B,8440000,1,Wrong Answer
+leoair,D,8441000,20,Wrong Answer
+强强,D,8443000,9,Wrong Answer
+dyt_dirt,D,8446000,0,Wrong Answer
+sunjunhao,D,8457000,30,Wrong Answer
+张恺瑄,B,8460000,60,Wrong Answer
+HL_CZY,E,8464000,0,Runtime Error
+wmyr,E,8469000,50,Wrong Answer
+songzhihan,E,8472000,18,Wrong Answer
+唐宁泽,B,8473000,1,Wrong Answer
+sunjunhao,D,8476000,30,Wrong Answer
+何浩鲲,B,8480000,100,Accepted
+leoair,D,8483000,20,Wrong Answer
+Zhaozhuoxi,C,8486000,0,Wrong Answer
+MerlinLee,A,8495000,0,Compile Error
+sunjunhao,D,8497000,30,Wrong Answer
+傅凌龙,B,8502000,20,Time Limit Exceeded
+huangshiyu,C,8504000,0,Wrong Answer
+HL_CZY,E,8506000,0,Runtime Error
+Liuooo,E,8506000,0,Compile Error
+陈邑宁,E,8513000,50,Time Limit Exceeded
+sunjunhao,D,8514000,30,Wrong Answer
+Liuooo,E,8515000,0,Runtime Error
+MerlinLee,A,8523000,50,Wrong Answer
+wmyr,E,8524000,50,Time Limit Exceeded
+legendcn,F,8525000,30,Time Limit Exceeded
+hjj,B,8531000,1,Wrong Answer
+傅凌龙,B,8542000,20,Time Limit Exceeded
+wmyr,E,8554000,50,Time Limit Exceeded
+傅凌龙,B,8556000,20,Time Limit Exceeded
+夏天天,E,8558000,0,Wrong Answer
+XUSJ,B,8562000,1,Time Limit Exceeded
+error,E,8567000,5,Wrong Answer
+XUSJ,B,8572000,1,Time Limit Exceeded
+xyh,D,8576000,30,Wrong Answer
+weiyumo,B,8576000,20,Time Limit Exceeded
+XUSJ,B,8595000,20,Time Limit Exceeded
+leiyuhao,D,8600000,0,Wrong Answer
+HL_CZY,E,8610000,0,Runtime Error
+weiyumo,B,8619000,20,Time Limit Exceeded
+kjh,D,8627000,100,Accepted
+zhangce,D,8636000,50,Wrong Answer
+dyt_dirt,D,8637000,0,Wrong Answer
+蔡杨煜,F,8639000,0,Time Limit Exceeded
+张智淏,B,8646000,60,Time Limit Exceeded
+tyb,E,8654000,5,Wrong Answer
+何浩鲲,F,8658000,30,Time Limit Exceeded
+kqshengxuanyi,E,8665000,50,Wrong Answer
+wxy2010,C,8674000,0,Wrong Answer
+陈邑宁,E,8682000,50,Time Limit Exceeded
+hexuben,D,8688000,50,Wrong Answer
+ljy_xc,E,8688000,50,Time Limit Exceeded
+傅凌龙,B,8691000,1,Time Limit Exceeded
+唐宁泽,B,8704000,1,Wrong Answer
+niusiyuan,C,8705000,0,Wrong Answer
+wmyr,E,8710000,0,Wrong Answer
+zhangzihan_Yuuki Asuna,F,8714000,30,Time Limit Exceeded
+ljy_xc,E,8714000,50,Time Limit Exceeded
+XUSJ,A,8715000,20,Wrong Answer
+DL24zhangyixin,C,8720000,0,Wrong Answer
+maguangxian,E,8724000,50,Wrong Answer
+wxy2010,C,8724000,100,Accepted
+leoair,D,8732000,100,Accepted
+zhengjinyi,D,8732000,50,Wrong Answer
+傅凌龙,B,8737000,1,Time Limit Exceeded
+huangshiyu,C,8739000,0,Wrong Answer
+wmyr,E,8744000,50,Time Limit Exceeded
+yyz,B,8759000,1,Wrong Answer
+weiyumo,B,8762000,1,Wrong Answer
+wmyr,E,8767000,50,Time Limit Exceeded
+hexuben,D,8774000,65,Wrong Answer
+XUSJ,A,8774000,0,Wrong Answer
+jiangyiyang,D,8778000,9,Wrong Answer
+zhengjinyi,D,8780000,100,Accepted
+yaoyanfeng,F,8782000,70,Time Limit Exceeded
+蔡杨煜,B,8785000,1,Time Limit Exceeded
+liruoxin,F,8788000,30,Time Limit Exceeded
+ljy_xc,E,8790000,45,Wrong Answer
+weiyumo,B,8793000,1,Time Limit Exceeded
+tjy,C,8802000,0,Runtime Error
+wmyr,E,8805000,50,Time Limit Exceeded
+deyi,F,8805000,30,Time Limit Exceeded
+weiyumo,B,8806000,20,Time Limit Exceeded
+maguangxian,E,8807000,100,Accepted
+sunjunhao,D,8809000,30,Wrong Answer
+ljy_xc,E,8812000,50,Time Limit Exceeded
+Zhaozhuoxi,C,8817000,100,Accepted
+thomaswmy,F,8820000,100,Accepted
+fangzichang,E,8835000,40,Wrong Answer
+ljy_xc,E,8846000,50,Time Limit Exceeded
+liuzeyuan,B,8855000,0,Wrong Answer
+DL24zhangyixin,C,8857000,100,Accepted
+刘子墨,A,8866000,20,Time Limit Exceeded
+zhangzihan_Yuuki Asuna,C,8866000,0,Time Limit Exceeded
+傅凌龙,B,8871000,20,Time Limit Exceeded
+zhangce,D,8872000,30,Wrong Answer
+Harry,D,8882000,20,Time Limit Exceeded
+XUSJ,A,8882000,20,Wrong Answer
+wmyr,E,8883000,50,Time Limit Exceeded
+Huangjunrui,E,8886000,5,Wrong Answer
+HL_CZY,E,8886000,15,Runtime Error
+zhangce,D,8892000,30,Wrong Answer
+songzhihan,B,8893000,100,Accepted
+liuzeyuan,B,8903000,1,Wrong Answer
+傅凌龙,B,8913000,20,Time Limit Exceeded
+ljy_xc,E,8921000,50,Time Limit Exceeded
+leiyuhao,D,8927000,0,Compile Error
+cpz0342,G,8930000,20,Wrong Answer
+ljy_xc,E,8940000,50,Time Limit Exceeded
+leiyuhao,D,8945000,0,Wrong Answer
+hank0402,D,8952000,100,Accepted
+wmyr,E,8955000,50,Wrong Answer
+刘子墨,A,8960000,0,Compile Error
+huangshiyu,C,8963000,0,Wrong Answer
+陈邑宁,E,8972000,0,Wrong Answer
+sunjunhao,D,8974000,30,Wrong Answer
+yangbowen,A,8981000,50,Wrong Answer
+刘子墨,A,8982000,0,Compile Error
+wmyr,E,8982000,50,Time Limit Exceeded
+肖一鸣,E,8986000,43,Wrong Answer
+chendingyan,A,8986000,100,Accepted
+huangweiliang,B,8990000,1,Wrong Answer
+tyb,E,8991000,5,Wrong Answer
+陈邑宁,E,8993000,50,Wrong Answer
+刘子墨,A,8996000,20,Time Limit Exceeded
+刘子墨,A,9005000,20,Time Limit Exceeded
+cpz0342,E,9013000,0,Wrong Answer
+蔡杨煜,B,9035000,1,Time Limit Exceeded
+方子豪,B,9043000,1,Time Limit Exceeded
+wmyr,E,9045000,50,Time Limit Exceeded
+傅凌龙,B,9045000,20,Time Limit Exceeded
+ini,D,9046000,30,Wrong Answer
+傅凌龙,B,9078000,60,Wrong Answer
+huangweiliang,B,9084000,1,Wrong Answer
+张智淏,E,9085000,0,Wrong Answer
+肖一鸣,E,9089000,100,Accepted
+xiaoshu2010,E,9089000,0,Compile Error
+ljy_xc,E,9089000,50,Time Limit Exceeded
+liuzeyuan,E,9095000,0,Wrong Answer
+docxjun,E,9097000,5,Wrong Answer
+袁瑞擎,C,9105000,0,Wrong Answer
+肖皓天,D,9112000,0,Wrong Answer
+wmyr,E,9115000,50,Time Limit Exceeded
+docxjun,E,9124000,5,Wrong Answer
+QZ1Z-CQR,F,9125000,30,Time Limit Exceeded
+肖皓天,D,9140000,9,Wrong Answer
+wmyr,E,9148000,50,Time Limit Exceeded
+kqshengxuanyi,E,9154000,50,Wrong Answer
+nyyjshcz,E,9154000,0,Wrong Answer
+高兴的高,C,9155000,0,Wrong Answer
+fangzichang,E,9157000,100,Accepted
+wmyr,E,9167000,50,Time Limit Exceeded
+linmou,E,9171000,50,Time Limit Exceeded
+hjj,B,9177000,100,Accepted
+cyq,E,9177000,100,Accepted
+HLOI_3_P045,E,9178000,50,Time Limit Exceeded
+niusiyuan,C,9180000,0,Wrong Answer
+huangweiliang,B,9200000,1,Wrong Answer
+jyy0806,C,9200000,0,Wrong Answer
+xiaoshu2010,E,9208000,5,Wrong Answer
+QAQfj5,E,9217000,5,Wrong Answer
+zhangce,D,9221000,30,Wrong Answer
+hexuben,D,9221000,20,Wrong Answer
+kjh,E,9222000,0,Wrong Answer
+wxy2010,D,9232000,30,Wrong Answer
+hepeidong,E,9247000,5,Wrong Answer
+XUSJ,A,9249000,20,Runtime Error
+zzy0618,E,9254000,100,Accepted
+kqshengxuanyi,E,9262000,50,Wrong Answer
+XUSJ,A,9264000,20,Runtime Error
+zhangzihan_Yuuki Asuna,G,9279000,0,Wrong Answer
+niusiyuan,C,9281000,0,Wrong Answer
+kqshengxuanyi,E,9297000,50,Wrong Answer
+高兴的高,C,9299000,0,Wrong Answer
+XUSJ,A,9301000,20,Wrong Answer
+张恺瑄,G,9317000,0,Wrong Answer
+ljy_xc,E,9323000,50,Time Limit Exceeded
+xiaoshu2010,E,9327000,5,Wrong Answer
+Nihachu,D,9328000,65,Wrong Answer
+linmou,E,9333000,50,Time Limit Exceeded
+linmou,E,9358000,0,Wrong Answer
+wmyr,E,9371000,50,Time Limit Exceeded
+Nihachu,D,9382000,100,Accepted
+hexuben,D,9383000,20,Wrong Answer
+wmyr,E,9386000,50,Wrong Answer
+XUSJ,A,9388000,20,Wrong Answer
+songhaoyu,E,9390000,0,Wrong Answer
+方子豪,B,9391000,1,Time Limit Exceeded
+许文渊,B,9392000,1,Time Limit Exceeded
+qhj,E,9394000,0,Runtime Error
+XUSJ,A,9399000,20,Wrong Answer
+wmyr,E,9402000,50,Wrong Answer
+hexuben,D,9408000,65,Wrong Answer
+wmyr,E,9414000,50,Time Limit Exceeded
+songhaoyu,E,9423000,0,Wrong Answer
+susieli,D,9424000,15,Wrong Answer
+wmyr,E,9425000,50,Time Limit Exceeded
+niusiyuan,C,9433000,0,Wrong Answer
+songhaoyu,E,9436000,0,Wrong Answer
+MerlinLee,H,9440000,0,Wrong Answer
+武川翔,E,9443000,5,Wrong Answer
+linmou,E,9449000,50,Wrong Answer
+linmou,E,9463000,50,Wrong Answer
+qhj,E,9465000,20,Wrong Answer
+wxy2010,D,9465000,100,Accepted
+蔡杨煜,B,9475000,20,Time Limit Exceeded
+cpz0342,F,9477000,30,Time Limit Exceeded
+武川翔,E,9489000,5,Wrong Answer
+tyb,E,9492000,5,Wrong Answer
+wmyr,E,9500000,50,Time Limit Exceeded
+强强,D,9505000,30,Wrong Answer
+方子豪,B,9508000,1,Time Limit Exceeded
+Liuooo,C,9508000,0,Wrong Answer
+刘添乐,D,9509000,20,Time Limit Exceeded
+huangweiliang,B,9510000,1,Wrong Answer
+error,A,9514000,100,Accepted
+tiaotiao2011,G,9516000,60,Wrong Answer
+qhj,E,9517000,15,Time Limit Exceeded
+wmyr,E,9518000,50,Time Limit Exceeded
+leiyuhao,D,9525000,0,Wrong Answer
+Liuooo,C,9530000,0,Wrong Answer
+H2ptimize,E,9531000,0,Time Limit Exceeded
+kqshengxuanyi,E,9542000,50,Wrong Answer
+linmou,E,9547000,50,Time Limit Exceeded
+yyz,B,9553000,1,Wrong Answer
+肖皓天,E,9554000,20,Wrong Answer
+hexuben,D,9563000,65,Wrong Answer
+linmou,E,9568000,50,Time Limit Exceeded
+傅凌龙,B,9576000,60,Time Limit Exceeded
+方子豪,B,9577000,1,Time Limit Exceeded
+susieli,D,9582000,50,Wrong Answer
+linmou,E,9584000,50,Time Limit Exceeded
+QAQfj5,E,9586000,23,Wrong Answer
+huangshiyu,C,9590000,0,Wrong Answer
+wmyr,E,9592000,50,Time Limit Exceeded
+kqshengxuanyi,E,9597000,50,Wrong Answer
+linmou,E,9603000,50,Wrong Answer
+傅凌龙,B,9605000,60,Time Limit Exceeded
+金弋帆,B,9606000,0,Compile Error
+huangweiliang,B,9612000,1,Wrong Answer
+HLOI_3_P045,E,9614000,15,Runtime Error
+XUSJ,A,9615000,50,Wrong Answer
+金弋帆,B,9624000,20,Time Limit Exceeded
+PhirainEX,G,9626000,60,Wrong Answer
+傅凌龙,B,9628000,60,Time Limit Exceeded
+ycn,D,9641000,20,Runtime Error
+高兴的高,C,9644000,0,Wrong Answer
+kqshengxuanyi,E,9645000,45,Runtime Error
+HLOI_3_P045,E,9654000,15,Runtime Error
+傅凌龙,B,9658000,60,Time Limit Exceeded
+夏天天,D,9660000,20,Time Limit Exceeded
+ycn,D,9668000,20,Time Limit Exceeded
+huangshiyu,C,9668000,0,Wrong Answer
+jk123,C,9670000,100,Accepted
+QAQfj5,E,9673000,23,Wrong Answer
+傅凌龙,B,9676000,60,Time Limit Exceeded
+XUSJ,A,9678000,30,Wrong Answer
+武川翔,E,9681000,5,Wrong Answer
+yyz,B,9686000,1,Wrong Answer
+kqshengxuanyi,E,9694000,45,Runtime Error
+qhj,E,9705000,20,Wrong Answer
+傅凌龙,B,9706000,60,Time Limit Exceeded
+zhengjinyi,E,9713000,5,Wrong Answer
+liyuze,D,9715000,20,Time Limit Exceeded
+傅凌龙,B,9723000,60,Wrong Answer
+kqshengxuanyi,E,9724000,45,Runtime Error
+高兴的高,C,9724000,0,Wrong Answer
+HLOI_3_P045,E,9730000,50,Time Limit Exceeded
+kjh,E,9734000,0,Runtime Error
+XUSJ,A,9735000,50,Wrong Answer
+ycn,D,9738000,20,Time Limit Exceeded
+kqshengxuanyi,E,9742000,45,Runtime Error
+傅凌龙,B,9752000,60,Wrong Answer
+ljy_xc,E,9761000,50,Time Limit Exceeded
+kjh,E,9763000,0,Runtime Error
+方子豪,B,9767000,0,Compile Error
+kjh,E,9778000,0,Runtime Error
+susieli,D,9778000,30,Wrong Answer
+高兴的高,C,9779000,0,Wrong Answer
+qhj,E,9781000,15,Time Limit Exceeded
+傅凌龙,B,9781000,60,Time Limit Exceeded
+HLOI_3_P045,E,9782000,50,Time Limit Exceeded
+hexuben,D,9788000,65,Wrong Answer
+kjh,E,9791000,5,Runtime Error
+蔡杨煜,B,9798000,20,Time Limit Exceeded
+zhangzihan_Yuuki Asuna,C,9807000,0,Time Limit Exceeded
+方子豪,B,9809000,1,Time Limit Exceeded
+刘子墨,A,9811000,50,Wrong Answer
+HBYoutze,E,9817000,50,Time Limit Exceeded
+曾浩,D,9832000,0,Compile Error
+刘子墨,A,9834000,50,Wrong Answer
+XUSJ,A,9844000,50,Wrong Answer
+kjh,E,9844000,0,Runtime Error
+Harry,D,9854000,30,Wrong Answer
+XUSJ,A,9856000,50,Wrong Answer
+linmou,E,9858000,50,Wrong Answer
+huangshiyu,C,9861000,0,Wrong Answer
+huangweiliang,B,9862000,1,Wrong Answer
+方子豪,B,9864000,1,Time Limit Exceeded
+jiangyiyang,F,9871000,30,Time Limit Exceeded
+蔡杨煜,B,9871000,20,Time Limit Exceeded
+金弋帆,B,9881000,1,Time Limit Exceeded
+ycn,D,9887000,20,Time Limit Exceeded
+linmou,E,9894000,50,Time Limit Exceeded
+HBYoutze,E,9898000,50,Time Limit Exceeded
+唐宁泽,G,9899000,0,Wrong Answer
+liyuze,D,9905000,50,Wrong Answer
+唐宁泽,B,9908000,20,Time Limit Exceeded
+qhj,E,9910000,15,Time Limit Exceeded
+傅凌龙,B,9914000,60,Wrong Answer
+linmou,E,9919000,70,Wrong Answer
+kqshengxuanyi,E,9921000,5,Time Limit Exceeded
+yyz,B,9932000,100,Accepted
+傅凌龙,B,9934000,60,Wrong Answer
+金弋帆,B,9941000,0,Compile Error
+weiyumo,B,9943000,20,Time Limit Exceeded
+cpz0342,E,9946000,0,Wrong Answer
+qhj,E,9946000,20,Time Limit Exceeded
+唐宁泽,B,9959000,20,Time Limit Exceeded
+金弋帆,B,9961000,1,Time Limit Exceeded
+Harry,D,9963000,0,Wrong Answer
+wmyr,F,9963000,0,Time Limit Exceeded
+杨育安,E,9970000,0,Wrong Answer
+huangweiliang,B,9978000,1,Wrong Answer
+susieli,D,9979000,30,Wrong Answer
+蔡杨煜,G,9979000,10,Wrong Answer
+docxjun,E,9982000,5,Time Limit Exceeded
+zhengjinyi,E,9985000,5,Wrong Answer
+金弋帆,B,9987000,1,Time Limit Exceeded
+蔡杨煜,G,9988000,10,Wrong Answer
+H2ptimize,E,9989000,20,Time Limit Exceeded
+高兴的高,C,9992000,0,Wrong Answer
+zhangce,D,9993000,0,Wrong Answer
+qhj,E,9994000,20,Time Limit Exceeded
+ycn,D,10001000,20,Time Limit Exceeded
+leiyuhao,F,10019000,30,Time Limit Exceeded
+傅凌龙,B,10034000,1,Time Limit Exceeded
+zhangce,D,10035000,65,Wrong Answer
+xiaoshu2010,B,10050000,1,Wrong Answer
+蔡杨煜,H,10052000,0,Compile Error
+zhengjinyi,E,10066000,20,Wrong Answer
+sunjunhao,D,10070000,30,Wrong Answer
+QAQfj5,E,10071000,23,Wrong Answer
+weiyumo,B,10072000,20,Time Limit Exceeded
+唐宁泽,B,10072000,1,Time Limit Exceeded
+方子豪,B,10085000,1,Time Limit Exceeded
+傅凌龙,B,10094000,60,Time Limit Exceeded
+张智淏,B,10098000,100,Accepted
+qhj,E,10100000,15,Time Limit Exceeded
+MerlinLee,G,10109000,0,Runtime Error
+songhaoyu,F,10119000,0,Time Limit Exceeded
+zhangzihan_Yuuki Asuna,D,10132000,0,Wrong Answer
+qhj,E,10134000,20,Wrong Answer
+docxjun,E,10138000,11,Wrong Answer
+XUSJ,A,10143000,50,Wrong Answer
+kjh,E,10157000,0,Runtime Error
+金弋帆,B,10160000,20,Time Limit Exceeded
+qhj,E,10160000,15,Time Limit Exceeded
+肖一鸣,F,10160000,30,Time Limit Exceeded
+武川翔,E,10163000,5,Wrong Answer
+tjy,C,10179000,0,Runtime Error
+蔡杨煜,G,10182000,10,Wrong Answer
+Harry,D,10182000,50,Wrong Answer
+wmyr,F,10185000,30,Time Limit Exceeded
+XUSJ,A,10187000,50,Wrong Answer
+曾浩,D,10196000,0,Wrong Answer
+lyxhsx,E,10201000,0,Compile Error
+金弋帆,B,10210000,20,Time Limit Exceeded
+lyxhsx,E,10213000,0,Compile Error
+刘子墨,B,10219000,60,Wrong Answer
+error,B,10223000,1,Wrong Answer
+qhj,E,10224000,0,Compile Error
+zhangzihan_Yuuki Asuna,D,10231000,0,Wrong Answer
+lyxhsx,E,10233000,45,Runtime Error
+hexuben,D,10234000,100,Accepted
+duchengzhu2008,E,10238000,5,Wrong Answer
+高兴的高,C,10243000,0,Wrong Answer
+qhj,E,10246000,20,Wrong Answer
+chendingyan,B,10248000,1,Time Limit Exceeded
+金弋帆,B,10248000,20,Time Limit Exceeded
+sunjunhao,D,10258000,30,Wrong Answer
+qhj,E,10262000,20,Wrong Answer
+陈邑宁,E,10264000,32,Wrong Answer
+刘子墨,B,10265000,100,Accepted
+zhangce,D,10273000,100,Accepted
+xiaoshu2010,B,10276000,20,Wrong Answer
+yangbowen,A,10279000,100,Accepted
+傅凌龙,B,10279000,60,Wrong Answer
+Harry,D,10279000,100,Accepted
+曾浩,D,10282000,30,Wrong Answer
+kqshengxuanyi,E,10283000,45,Runtime Error
+MerlinLee,B,10293000,100,Accepted
+蔡杨煜,B,10293000,20,Time Limit Exceeded
+ljy_xc,E,10293000,0,Wrong Answer
+wmyr,E,10296000,50,Wrong Answer
+leiyuhao,G,10296000,0,Wrong Answer
+傅凌龙,B,10298000,60,Wrong Answer
+songhaoyu,E,10298000,0,Wrong Answer
+高兴的高,C,10299000,0,Wrong Answer
+kqshengxuanyi,E,10308000,45,Runtime Error
+qhj,E,10316000,20,Wrong Answer
+wmyr,E,10318000,50,Wrong Answer
+ljy_xc,E,10319000,50,Time Limit Exceeded
+chendingyan,B,10319000,20,Time Limit Exceeded
+linmou,G,10321000,0,Wrong Answer
+susieli,D,10323000,50,Wrong Answer
+方子豪,B,10324000,0,Compile Error
+kqshengxuanyi,E,10327000,45,Runtime Error
+何楷文,E,10328000,0,Runtime Error
+liuzeyuan,H,10337000,0,Compile Error
+肖皓天,G,10340000,20,Wrong Answer
+kjh,E,10340000,5,Time Limit Exceeded
+wmyr,E,10347000,50,Time Limit Exceeded
+MerlinLee,A,10348000,50,Wrong Answer
+kqshengxuanyi,E,10353000,45,Runtime Error
+zhengjinyi,E,10355000,50,Time Limit Exceeded
+lyxhsx,E,10357000,100,Accepted
+wtxwd,E,10358000,100,Accepted
+linmou,G,10361000,0,Wrong Answer
+何楷文,E,10361000,20,Runtime Error
+wmyr,E,10364000,50,Wrong Answer
+方子豪,B,10366000,1,Time Limit Exceeded
+kqshengxuanyi,E,10369000,45,Runtime Error
+liuzeyuan,H,10379000,0,Compile Error
+liyuze,F,10380000,30,Runtime Error
+DL24zhangyixin,F,10384000,30,Time Limit Exceeded
+kqshengxuanyi,E,10388000,45,Runtime Error
+PhirainEX,F,10390000,30,Time Limit Exceeded
+cpz0342,E,10398000,5,Wrong Answer
+niusiyuan,C,10398000,100,Accepted
+XUSJ,A,10404000,50,Wrong Answer
+kqshengxuanyi,E,10405000,45,Runtime Error
+傅凌龙,B,10406000,60,Time Limit Exceeded
+何楷文,E,10408000,40,Wrong Answer
+linmou,G,10408000,20,Wrong Answer
+强强,D,10411000,65,Wrong Answer
+何浩鲲,E,10414000,5,Wrong Answer
+蔡杨煜,B,10420000,60,Time Limit Exceeded
+docxjun,E,10421000,11,Wrong Answer
+kqshengxuanyi,E,10423000,45,Runtime Error
+ycn,D,10424000,50,Wrong Answer
+MerlinLee,E,10425000,18,Wrong Answer
+zhangzihan_Yuuki Asuna,D,10425000,0,Wrong Answer
+qhj,E,10429000,100,Accepted
+leiyuhao,G,10434000,0,Wrong Answer
+BruceTong,E,10438000,5,Wrong Answer
+zhangce,G,10443000,0,Wrong Answer
+何楷文,E,10445000,40,Wrong Answer
+wmyr,E,10446000,50,Wrong Answer
+zhangzihan_Yuuki Asuna,D,10447000,0,Wrong Answer
+高兴的高,C,10448000,0,Wrong Answer
+kqshengxuanyi,E,10456000,45,Runtime Error
+weiyumo,B,10458000,20,Time Limit Exceeded
+maguangxian,G,10463000,20,Wrong Answer
+蔡杨煜,B,10469000,0,Compile Error
+kqshengxuanyi,E,10470000,45,Runtime Error
+zhangzihan_Yuuki Asuna,D,10476000,0,Wrong Answer
+kqshengxuanyi,E,10487000,45,Runtime Error
+leiyuhao,G,10489000,20,Wrong Answer
+liuzeyuan,H,10491000,0,Time Limit Exceeded
+蔡杨煜,B,10491000,0,Compile Error
+maguangxian,G,10493000,10,Wrong Answer
+BruceTong,E,10495000,5,Wrong Answer
+maguangxian,G,10500000,20,Wrong Answer
+HBYoutze,E,10508000,50,Time Limit Exceeded
+方子豪,B,10514000,20,Time Limit Exceeded
+kqshengxuanyi,E,10515000,45,Runtime Error
+XUSJ,A,10516000,100,Accepted
+MerlinLee,A,10519000,20,Wrong Answer
+ljy_xc,E,10535000,5,Wrong Answer
+duchengzhu2008,E,10535000,0,Wrong Answer
+kqshengxuanyi,E,10536000,45,Runtime Error
+ini,G,10537000,0,Wrong Answer
+蔡杨煜,B,10546000,60,Wrong Answer
+fangzichang,D,10551000,30,Wrong Answer
+kqshengxuanyi,E,10552000,45,Runtime Error
+高兴的高,C,10553000,0,Wrong Answer
+wmyr,E,10557000,50,Time Limit Exceeded
+error,B,10562000,100,Accepted
+kqshengxuanyi,E,10566000,45,Wrong Answer
+xiaoshu2010,B,10569000,100,Accepted
+wmyr,E,10574000,50,Time Limit Exceeded
+方子豪,C,10581000,0,Time Limit Exceeded
+kqshengxuanyi,E,10587000,45,Runtime Error
+ljy_xc,E,10591000,5,Wrong Answer
+ini,G,10596000,20,Wrong Answer
+kqshengxuanyi,E,10601000,45,Runtime Error
+QAQfj5,E,10605000,50,Wrong Answer
+强强,D,10605000,65,Wrong Answer
+高兴的高,C,10606000,0,Wrong Answer
+DL24zhangyixin,D,10613000,9,Wrong Answer
+kqshengxuanyi,E,10617000,45,Runtime Error
+ycn,D,10631000,50,Wrong Answer
+kqshengxuanyi,E,10631000,45,Runtime Error
+kqshengxuanyi,E,10646000,45,Runtime Error
+cpz0342,E,10649000,5,Wrong Answer
+songhaoyu,G,10649000,0,Runtime Error
+qhj,F,10655000,30,Time Limit Exceeded
+金弋帆,A,10664000,20,Wrong Answer
+kqshengxuanyi,E,10665000,45,Runtime Error
+nyyjshcz,E,10667000,0,Time Limit Exceeded
+kjh,F,10667000,30,Time Limit Exceeded
+蔡杨煜,B,10677000,60,Wrong Answer
+kqshengxuanyi,E,10680000,45,Runtime Error
+金弋帆,A,10681000,20,Wrong Answer
+kqshengxuanyi,E,10697000,45,Wrong Answer
+HLOI_3_P045,E,10698000,32,Time Limit Exceeded
+fangzichang,D,10714000,30,Memory Limit Exceeded
+kqshengxuanyi,E,10714000,45,Runtime Error
+高兴的高,C,10716000,100,Accepted
+jiangyiyang,D,10723000,0,Wrong Answer
+ljy_xc,E,10726000,45,Wrong Answer
+kqshengxuanyi,E,10730000,45,Runtime Error
+jiazijian,C,10730000,0,Time Limit Exceeded
+nyyjshcz,E,10744000,18,Wrong Answer
+lyxhsx,F,10747000,30,Runtime Error
+kqshengxuanyi,E,10748000,45,Runtime Error
+fangzichang,D,10759000,30,Wrong Answer
+kqshengxuanyi,E,10774000,70,Wrong Answer
+XUSJ,G,10793000,0,Wrong Answer
+金弋帆,A,10809000,0,Compile Error
+sunjunhao,D,10810000,30,Wrong Answer
+ycn,D,10811000,50,Wrong Answer
+金弋帆,A,10819000,20,Runtime Error
+唐宁泽,B,10820000,1,Wrong Answer
+luyuyang,E,10825000,0,Runtime Error
+sunjunhao,D,10829000,30,Wrong Answer
+jiangyiyang,D,10830000,0,Wrong Answer
+hjj,F,10831000,30,Time Limit Exceeded
+QAQfj5,E,10836000,50,Wrong Answer
+weiyumo,B,10836000,1,Wrong Answer
+金弋帆,A,10841000,20,Wrong Answer
+武川翔,E,10844000,5,Wrong Answer
+HBYoutze,F,10844000,30,Time Limit Exceeded
+张恺瑄,C,10845000,0,Wrong Answer
+ywz,H,10845000,10,Wrong Answer
+wmyr,E,10851000,50,Time Limit Exceeded
+kjh,E,10851000,5,Time Limit Exceeded
+weiyumo,B,10863000,0,Wrong Answer
+蔡杨煜,B,10865000,60,Time Limit Exceeded
+张恺瑄,C,10872000,0,Wrong Answer
+songhaoyu,D,10873000,9,Wrong Answer
+weiyumo,B,10876000,0,Compile Error
+XUSJ,B,10882000,20,Time Limit Exceeded
+wmyr,E,10889000,70,Wrong Answer
+weiyumo,B,10889000,20,Time Limit Exceeded
+sunjunhao,D,10890000,30,Wrong Answer
+qzyzzgc,E,10902000,40,Wrong Answer
+kjh,E,10913000,5,Time Limit Exceeded
+BruceTong,E,10920000,5,Wrong Answer
+duchengzhu2008,E,10930000,5,Wrong Answer
+hepeidong,E,10931000,100,Accepted
+ljy_xc,E,10952000,45,Wrong Answer
+蔡杨煜,F,10953000,0,Time Limit Exceeded
+XUSJ,B,10959000,1,Time Limit Exceeded
+huangweiliang,B,10960000,1,Wrong Answer
+chendingyan,B,10962000,20,Time Limit Exceeded
+金弋帆,A,10969000,20,Wrong Answer
+傅凌龙,F,10985000,0,Time Limit Exceeded
+HBYoutze,G,10987000,10,Wrong Answer
+蔡杨煜,B,10994000,100,Accepted
+cyq,G,11005000,20,Wrong Answer
+傅凌龙,F,11006000,30,Time Limit Exceeded
+leiyuhao,D,11009000,0,Wrong Answer
+夏天天,C,11009000,0,Wrong Answer
+kjh,E,11010000,5,Time Limit Exceeded
+guoliyuzs_2023,F,11013000,30,Time Limit Exceeded
+XUSJ,A,11018000,100,Accepted
+yyz,F,11032000,30,Time Limit Exceeded
+许文渊,F,11035000,30,Time Limit Exceeded
+kjh,E,11038000,0,Time Limit Exceeded
+强强,D,11045000,65,Wrong Answer
+Huangjunrui,E,11047000,45,Time Limit Exceeded
+唐宁泽,B,11052000,100,Accepted
+huangshiyu,E,11063000,5,Wrong Answer
+kjh,E,11066000,18,Time Limit Exceeded
+docxjun,E,11071000,5,Time Limit Exceeded
+weiyumo,B,11072000,60,Wrong Answer
+MerlinLee,D,11073000,0,Wrong Answer
+jiangyiyang,D,11075000,0,Wrong Answer
+niusiyuan,E,11083000,0,Wrong Answer
+wtxwd,D,11088000,50,Wrong Answer
+hutianshuo,G,11095000,50,Time Limit Exceeded
+金弋帆,A,11097000,20,Runtime Error
+陈邑宁,E,11101000,50,Time Limit Exceeded
+何浩鲲,E,11105000,5,Wrong Answer
+DL24niujunbo,H,11112000,0,Wrong Answer
+leiyuhao,D,11114000,0,Wrong Answer
+QZ1Z-CQR,E,11121000,45,Runtime Error
+sunjunhao,D,11126000,30,Wrong Answer
+杨育安,E,11132000,0,Runtime Error
+唐宁泽,B,11132000,100,Accepted
+DL24luchengxiang,G,11134000,100,Accepted
+何浩鲲,E,11134000,5,Wrong Answer
+金弋帆,A,11135000,20,Wrong Answer
+qzyzzgc,G,11140000,20,Wrong Answer
+XUSJ,B,11145000,0,Compile Error
+QZ1Z-CQR,E,11146000,100,Accepted
+zhangzihan_Yuuki Asuna,D,11150000,9,Wrong Answer
+Nihachu,E,11151000,6,Runtime Error
+XUSJ,B,11154000,1,Time Limit Exceeded
+MerlinLee,D,11157000,9,Wrong Answer
+何浩鲲,E,11164000,5,Wrong Answer
+sunjunhao,D,11166000,30,Wrong Answer
+杨育安,E,11166000,0,Runtime Error
+夏天天,C,11170000,0,Wrong Answer
+武川翔,E,11179000,5,Wrong Answer
+leiyuhao,D,11180000,0,Wrong Answer
+XUSJ,B,11182000,20,Time Limit Exceeded
+唐宁泽,B,11190000,1,Wrong Answer
+huangshiyu,E,11198000,5,Wrong Answer
+Harry,G,11201000,20,Time Limit Exceeded
+weiyumo,B,11205000,1,Wrong Answer
+唐宁泽,B,11207000,100,Accepted
+hutianshuo,G,11210000,60,Wrong Answer
+王佳翔,G,11216000,0,Wrong Answer
+weiyumo,B,11216000,1,Wrong Answer
+zzy0618,G,11221000,50,Runtime Error
+QAQfj5,E,11230000,50,Wrong Answer
+weiyumo,B,11233000,60,Wrong Answer
+docxjun,E,11238000,5,Wrong Answer
+markding,D,11240000,30,Wrong Answer
+武川翔,E,11246000,5,Wrong Answer
+xieruyu,G,11247000,50,Time Limit Exceeded
+Nihachu,E,11259000,43,Wrong Answer
+方子豪,A,11266000,20,Wrong Answer
+曾浩,D,11267000,30,Wrong Answer
+HLOI_3_P045,E,11268000,32,Time Limit Exceeded
+kjh,E,11272000,5,Time Limit Exceeded
+肖皓天,D,11275000,30,Wrong Answer
+XUSJ,B,11276000,20,Time Limit Exceeded
+DL24niujunbo,H,11282000,0,Wrong Answer
+qhj,G,11289000,0,Compile Error
+docxjun,E,11290000,5,Wrong Answer
+Zhaozhuoxi,E,11297000,5,Wrong Answer
+qhj,G,11304000,0,Time Limit Exceeded
+何浩鲲,E,11311000,5,Wrong Answer
+H2ptimize,E,11313000,5,Time Limit Exceeded
+susieli,E,11320000,5,Wrong Answer
+qhj,G,11327000,0,Wrong Answer
+wxy2010,F,11327000,100,Accepted
+songhaoyu,E,11333000,18,Wrong Answer
+陈邑宁,E,11333000,100,Accepted
+wtxwd,G,11339000,0,Wrong Answer
+zzy0618,G,11342000,50,Runtime Error
+lyxhsx,D,11346000,0,Wrong Answer
+linmou,F,11348000,30,Time Limit Exceeded
+Nihachu,E,11348000,43,Wrong Answer
+XUSJ,B,11352000,0,Compile Error
+qzyzzgc,H,11352000,0,Wrong Answer
+qzyzzgc,H,11368000,0,Wrong Answer
+dyt_dirt,F,11374000,0,Wrong Answer
+xiaoshu2010,E,11374000,20,Wrong Answer
+zzy0618,G,11380000,60,Wrong Answer
+ljy_xc,F,11388000,30,Time Limit Exceeded
+songzhihan,E,11388000,5,Wrong Answer
+chendingyan,B,11392000,1,Wrong Answer
+肖皓天,D,11395000,30,Wrong Answer
+dyt_dirt,F,11400000,0,Wrong Answer
+何浩鲲,E,11402000,0,Wrong Answer
+huangweiliang,B,11410000,1,Wrong Answer
+xieruyu,G,11411000,50,Wrong Answer
+高兴的高,E,11411000,5,Wrong Answer
+lyxhsx,D,11415000,0,Wrong Answer
+XUSJ,B,11419000,100,Accepted
+曾浩,D,11425000,30,Wrong Answer
+songzhihan,E,11427000,5,Wrong Answer
+luyuyang,E,11428000,45,Time Limit Exceeded
+QZ1Z-CQR,G,11429000,20,Wrong Answer
+weiyumo,B,11430000,60,Wrong Answer
+fangzichang,B,11433000,1,Wrong Answer
+jiazijian,C,11441000,0,Time Limit Exceeded
+huangweiliang,B,11443000,0,Compile Error
+强强,D,11443000,65,Wrong Answer
+Huangjunrui,E,11447000,50,Time Limit Exceeded
+hutianshuo,D,11448000,9,Wrong Answer
+xieruyu,G,11468000,60,Wrong Answer
+dyt_dirt,F,11470000,30,Time Limit Exceeded
+chendingyan,B,11479000,60,Wrong Answer
+zhangce,E,11480000,0,Wrong Answer
+肖皓天,D,11483000,30,Wrong Answer
+张智淏,E,11499000,5,Wrong Answer
+xiaoshu2010,E,11500000,20,Wrong Answer
+fangzichang,B,11510000,100,Accepted
+songzhihan,E,11517000,5,Wrong Answer
+jiazijian,C,11518000,0,Time Limit Exceeded
+DL24zhangyixin,D,11520000,30,Wrong Answer
+weiyumo,B,11524000,60,Wrong Answer
+hepeidong,F,11527000,0,Compile Error
+曾浩,D,11534000,50,Wrong Answer
+H2ptimize,E,11536000,50,Time Limit Exceeded
+chendingyan,B,11547000,60,Wrong Answer
+yyz,C,11559000,0,Wrong Answer
+zhangce,E,11565000,0,Wrong Answer
+jk123,D,11567000,0,Wrong Answer
+方子豪,A,11569000,20,Wrong Answer
+hepeidong,F,11569000,30,Time Limit Exceeded
+docxjun,E,11574000,0,Wrong Answer
+DL24zhangyixin,D,11583000,20,Runtime Error
+liyuze,E,11585000,23,Time Limit Exceeded
+weiyumo,B,11596000,60,Wrong Answer
+zhangce,E,11597000,0,Wrong Answer
+jk123,D,11604000,0,Wrong Answer
+yyz,C,11606000,0,Wrong Answer
+cpz0342,D,11619000,30,Wrong Answer
+肖皓天,D,11626000,0,Wrong Answer
+zhangzihan_Yuuki Asuna,D,11629000,9,Wrong Answer
+jk123,D,11640000,0,Wrong Answer
+DL24zhangyixin,D,11645000,20,Runtime Error
+jiazijian,C,11648000,0,Time Limit Exceeded
+weiyumo,B,11661000,60,Wrong Answer
+songhaoyu,B,11661000,60,Wrong Answer
+金弋帆,A,11665000,20,Wrong Answer
+杨育安,E,11666000,0,Runtime Error
+huangweiliang,B,11666000,100,Accepted
+张智淏,E,11669000,23,Time Limit Exceeded
+DL24zhangyixin,D,11670000,100,Accepted
+高兴的高,E,11673000,5,Wrong Answer
+cpz0342,D,11677000,30,Time Limit Exceeded
+huangshiyu,E,11680000,5,Wrong Answer
+杨育安,E,11688000,0,Compile Error
+金弋帆,A,11698000,0,Compile Error
+kjh,E,11706000,18,Wrong Answer
+DL24luchengxiang,F,11707000,30,Time Limit Exceeded
+杨育安,E,11710000,5,Wrong Answer
+chendingyan,B,11713000,60,Wrong Answer
+XUSJ,F,11715000,30,Time Limit Exceeded
+金弋帆,A,11720000,20,Runtime Error
+fangzichang,C,11725000,100,Accepted
+肖皓天,D,11725000,50,Wrong Answer
+zhangce,E,11729000,0,Wrong Answer
+QAQfj5,D,11738000,0,Wrong Answer
+陈邑宁,G,11740000,0,Wrong Answer
+nyyjshcz,E,11740000,0,Time Limit Exceeded
+金弋帆,A,11742000,20,Wrong Answer
+leiyuhao,E,11747000,0,Wrong Answer
+QAQfj5,E,11751000,0,Time Limit Exceeded
+luyuyang,E,11761000,45,Time Limit Exceeded
+kjh,E,11764000,5,Time Limit Exceeded
+zhangce,E,11765000,0,Time Limit Exceeded
+docxjun,E,11774000,15,Wrong Answer
+chendingyan,B,11774000,100,Accepted
+许文渊,B,11787000,20,Time Limit Exceeded
+方子豪,C,11789000,0,Runtime Error
+蔡杨煜,A,11805000,0,Compile Error
+武川翔,E,11807000,5,Wrong Answer
+huangshiyu,E,11810000,5,Wrong Answer
+高兴的高,E,11813000,5,Wrong Answer
+kjh,E,11816000,18,Time Limit Exceeded
+zlj6699tt,E,11818000,5,Time Limit Exceeded
+刘子墨,E,11820000,0,Wrong Answer
+weiyumo,B,11829000,60,Wrong Answer
+XUSJ,F,11831000,30,Time Limit Exceeded
+ini,H,11840000,0,Compile Error
+docxjun,E,11847000,20,Wrong Answer
+maguangxian,H,11847000,0,Wrong Answer
+weiyumo,B,11849000,100,Accepted
+QAQfj5,E,11853000,50,Wrong Answer
+luyuyang,E,11854000,45,Time Limit Exceeded
+金弋帆,A,11857000,20,Wrong Answer
+蔡杨煜,A,11859000,0,Compile Error
+曾浩,D,11874000,0,Wrong Answer
+刘添乐,E,11875000,0,Runtime Error
+cpz0342,D,11878000,30,Wrong Answer
+weiyumo,B,11884000,60,Wrong Answer
+kjh,E,11898000,18,Wrong Answer
+zhangzihan_Yuuki Asuna,E,11898000,0,Wrong Answer
+weiyumo,B,11901000,1,Wrong Answer
+maguangxian,H,11908000,0,Wrong Answer
+曾浩,D,11910000,50,Wrong Answer
+许文渊,B,11921000,1,Time Limit Exceeded
+H2ptimize,F,11923000,30,Time Limit Exceeded
+MerlinLee,E,11930000,0,Runtime Error
+cpz0342,D,11930000,50,Wrong Answer
+weiyumo,B,11938000,100,Accepted
+蔡杨煜,A,11942000,0,Compile Error
+nyyjshcz,E,11947000,0,Time Limit Exceeded
+杨育安,E,11951000,5,Wrong Answer
+XUSJ,F,11952000,0,Time Limit Exceeded
+高兴的高,E,11955000,5,Wrong Answer
+蔡杨煜,A,11957000,20,Wrong Answer
+fangzichang,F,11959000,30,Time Limit Exceeded
+kjh,E,11967000,18,Wrong Answer
+markding,F,11968000,0,Time Limit Exceeded
+yyz,C,11972000,100,Accepted
+cyq,G,11986000,25,Time Limit Exceeded
+许文渊,B,11988000,20,Time Limit Exceeded
+kjh,E,11991000,0,Wrong Answer
+liyuze,E,11995000,23,Time Limit Exceeded
+Zhaozhuoxi,E,11999000,27,Time Limit Exceeded
+xyh,F,12003000,30,Time Limit Exceeded
+XUSJ,F,12010000,0,Time Limit Exceeded
+高兴的高,E,12012000,5,Wrong Answer
+leiyuhao,E,12014000,5,Wrong Answer
+kjh,E,12015000,18,Wrong Answer
+wmyr,G,12022000,10,Time Limit Exceeded
+DL24niujunbo,H,12029000,100,Accepted
+XUSJ,F,12030000,0,Time Limit Exceeded
+luyuyang,E,12032000,45,Time Limit Exceeded
+huangweiliang,D,12036000,0,Wrong Answer
+xiaoshu2010,D,12040000,20,Time Limit Exceeded
+刘添乐,E,12046000,0,Runtime Error
+XUSJ,F,12053000,30,Time Limit Exceeded
+jk123,D,12055000,9,Wrong Answer
+Huangjunrui,F,12056000,30,Time Limit Exceeded
+cyq,G,12056000,50,Time Limit Exceeded
+杨育安,E,12067000,0,Compile Error
+蔡杨煜,A,12073000,20,Wrong Answer
+songhaoyu,F,12077000,0,Memory Limit Exceeded
+XUSJ,F,12077000,0,Time Limit Exceeded
+liyuze,E,12077000,23,Time Limit Exceeded
+zhengjinyi,G,12080000,20,Wrong Answer
+yangbowen,F,12082000,30,Time Limit Exceeded
+Zhaozhuoxi,E,12082000,32,Wrong Answer
+金弋帆,A,12083000,20,Wrong Answer
+杨育安,E,12084000,0,Wrong Answer
+许文渊,B,12093000,20,Time Limit Exceeded
+cyq,G,12095000,50,Time Limit Exceeded
+XUSJ,F,12096000,30,Time Limit Exceeded
+huangweiliang,D,12100000,0,Wrong Answer
+maguangxian,H,12111000,10,Time Limit Exceeded
+刘添乐,E,12112000,15,Runtime Error
+weiyumo,F,12118000,30,Time Limit Exceeded
+hutianshuo,D,12118000,9,Wrong Answer
+leiyuhao,D,12120000,0,Runtime Error
+H2ptimize,D,12129000,30,Wrong Answer
+maguangxian,H,12134000,0,Wrong Answer
+leiyuhao,D,12136000,0,Wrong Answer
+MerlinLee,E,12152000,0,Compile Error
+武川翔,D,12155000,0,Wrong Answer
+BruceTong,C,12156000,100,Accepted
+thomaswmy,E,12160000,0,Time Limit Exceeded
+MerlinLee,E,12163000,0,Compile Error
+Zhaozhuoxi,E,12168000,32,Wrong Answer
+huangweiliang,D,12176000,0,Wrong Answer
+蔡杨煜,A,12180000,20,Wrong Answer
+liyuze,E,12181000,50,Time Limit Exceeded
+sunjunhao,D,12186000,30,Wrong Answer
+docxjun,E,12192000,20,Wrong Answer
+XUSJ,E,12192000,0,Wrong Answer
+jk123,D,12195000,9,Wrong Answer
+Harry,H,12195000,10,Time Limit Exceeded
+markding,F,12201000,0,Time Limit Exceeded
+huangweiliang,D,12203000,30,Wrong Answer
+zhangzihan_Yuuki Asuna,E,12204000,0,Wrong Answer
+wmyr,G,12206000,10,Wrong Answer
+许文渊,B,12207000,20,Time Limit Exceeded
+kjh,E,12214000,18,Wrong Answer
+cyq,G,12221000,50,Time Limit Exceeded
+wmyr,G,12222000,20,Wrong Answer
+唐宁泽,B,12238000,100,Accepted
+luyuyang,E,12241000,45,Time Limit Exceeded
+duchengzhu2008,E,12245000,23,Time Limit Exceeded
+DL24zhangyixin,G,12257000,0,Wrong Answer
+hank0402,E,12261000,100,Accepted
+zhangzihan_Yuuki Asuna,E,12263000,0,Wrong Answer
+nyyjshcz,E,12268000,5,Wrong Answer
+MerlinLee,E,12271000,0,Compile Error
+markding,F,12276000,30,Time Limit Exceeded
+金弋帆,A,12278000,0,Compile Error
+MerlinLee,E,12283000,0,Compile Error
+Nihachu,E,12285000,52,Wrong Answer
+蔡杨煜,A,12290000,20,Wrong Answer
+MerlinLee,E,12294000,0,Time Limit Exceeded
+qhj,G,12299000,0,Compile Error
+许文渊,B,12299000,20,Time Limit Exceeded
+金弋帆,A,12300000,20,Wrong Answer
+susieli,D,12301000,50,Wrong Answer
+xiaoshu2010,D,12302000,29,Wrong Answer
+zhangzihan_Yuuki Asuna,E,12306000,0,Wrong Answer
+ycn,F,12310000,0,Time Limit Exceeded
+王佳翔,C,12310000,0,Wrong Answer
+夏天天,E,12310000,15,Runtime Error
+qhj,G,12313000,20,Wrong Answer
+DL24zhangyixin,G,12316000,0,Wrong Answer
+蔡杨煜,A,12333000,20,Wrong Answer
+cyq,G,12334000,50,Time Limit Exceeded
+肖皓天,A,12337000,20,Wrong Answer
+ycn,F,12349000,0,Time Limit Exceeded
+cyq,G,12355000,50,Time Limit Exceeded
+error,D,12357000,9,Wrong Answer
+songhaoyu,F,12359000,0,Wrong Answer
+nyyjshcz,E,12385000,5,Wrong Answer
+DL24zhangyixin,G,12394000,0,Wrong Answer
+ycn,F,12395000,30,Time Limit Exceeded
+xiaoshu2010,D,12396000,20,Wrong Answer
+肖皓天,A,12396000,100,Accepted
+cyq,G,12396000,50,Wrong Answer
+kjh,E,12400000,0,Memory Limit Exceeded
+QAQfj5,E,12403000,100,Accepted
+lyxhsx,D,12410000,0,Wrong Answer
+杨育安,E,12414000,5,Wrong Answer
+cyq,G,12414000,60,Wrong Answer
+xiaoshu2010,D,12424000,29,Wrong Answer
+Huangjunrui,D,12433000,6,Wrong Answer
+许文渊,B,12433000,20,Time Limit Exceeded
+yangbowen,B,12433000,1,Time Limit Exceeded
+蔡杨煜,A,12438000,20,Wrong Answer
+songhaoyu,C,12438000,0,Wrong Answer
+liuzeyuan,F,12438000,0,Runtime Error
+MerlinLee,E,12440000,23,Wrong Answer
+zhangzihan_Yuuki Asuna,C,12441000,0,Wrong Answer
+luyuyang,E,12446000,45,Time Limit Exceeded
+nyyjshcz,E,12447000,20,Wrong Answer
+金弋帆,C,12456000,0,Wrong Answer
+lyxhsx,D,12457000,0,Wrong Answer
+DL24zhangyixin,G,12461000,0,Wrong Answer
+夏天天,C,12478000,0,Time Limit Exceeded
+yyz,D,12493000,0,Runtime Error
+Nihachu,E,12495000,52,Wrong Answer
+jiazijian,E,12496000,0,Runtime Error
+lyxhsx,D,12502000,0,Wrong Answer
+kjh,E,12507000,5,Time Limit Exceeded
+susieli,D,12515000,30,Wrong Answer
+XUSJ,G,12519000,0,Wrong Answer
+yyz,D,12523000,0,Runtime Error
+huangweiliang,F,12523000,0,Time Limit Exceeded
+ywz,H,12526000,10,Wrong Answer
+jiangyiyang,D,12527000,0,Runtime Error
+maguangxian,H,12529000,10,Time Limit Exceeded
+wmyr,D,12541000,100,Accepted
+jiazijian,E,12543000,0,Wrong Answer
+金弋帆,D,12545000,0,Compile Error
+许文渊,B,12545000,100,Accepted
+maguangxian,H,12548000,10,Wrong Answer
+金弋帆,D,12560000,0,Wrong Answer
+susieli,D,12560000,50,Wrong Answer
+hutianshuo,D,12560000,9,Wrong Answer
+xiaoshu2010,E,12561000,20,Wrong Answer
+huangweiliang,F,12562000,30,Time Limit Exceeded
+yangbowen,B,12563000,1,Time Limit Exceeded
+杨育安,E,12566000,43,Wrong Answer
+肖一鸣,G,12569000,0,Time Limit Exceeded
+ywz,H,12569000,10,Wrong Answer
+zhangce,H,12572000,0,Wrong Answer
+wtxwd,G,12575000,10,Time Limit Exceeded
+Nihachu,E,12575000,52,Wrong Answer
+刘子墨,E,12577000,23,Wrong Answer
+BruceTong,D,12578000,0,Wrong Answer
+sunjunhao,D,12588000,30,Wrong Answer
+huangshiyu,E,12588000,0,Wrong Answer
+kjh,E,12588000,5,Time Limit Exceeded
+hutianshuo,D,12593000,0,Wrong Answer
+高兴的高,E,12599000,5,Time Limit Exceeded
