@@ -646,7 +646,6 @@ BruceTong,A,2350000,20,Wrong Answer
 H2ptimize,B,2354000,1,Wrong Answer
 Liuooo,B,2359000,1,Wrong Answer
 zlj6699tt,B,2362000,1,Wrong Answer
-jiazhichen844,E,2364000,100,Accepted
 jk123,B,2366000,1,Wrong Answer
 linmou,B,2366000,100,Accepted
 zhangce,B,2368000,1,Wrong Answer
@@ -680,7 +679,6 @@ leoair,B,2475000,60,Wrong Answer
 cyq,B,2481000,1,Wrong Answer
 夏天天,B,2481000,20,Time Limit Exceeded
 zhangce,B,2487000,1,Wrong Answer
-jiazhichen844,E,2490000,0,Judgement Failed
 huangweiliang,C,2499000,0,Wrong Answer
 wtxwd,B,2500000,0,Compile Error
 何楷文,B,2507000,1,Wrong Answer
@@ -689,7 +687,6 @@ DL24zhangyixin,B,2508000,1,Wrong Answer
 cyq,B,2512000,100,Accepted
 wtxwd,B,2512000,1,Wrong Answer
 BruceTong,A,2515000,50,Wrong Answer
-jiazhichen844,E,2517000,0,Wrong Answer
 ywz,B,2523000,1,Wrong Answer
 傅凌龙,A,2526000,20,Wrong Answer
 leoair,B,2533000,100,Accepted
@@ -943,7 +940,6 @@ liuzeyuan,B,3396000,0,Compile Error
 songzhihan,A,3401000,50,Wrong Answer
 张智淏,B,3404000,1,Wrong Answer
 杨育安,B,3406000,1,Wrong Answer
-jiazhichen844,A,3407000,100,Accepted
 kjh,E,3414000,0,Wrong Answer
 zhangce,B,3415000,1,Wrong Answer
 hank0402,C,3419000,100,Accepted
@@ -952,16 +948,13 @@ linmou,C,3421000,100,Accepted
 kjh,B,3424000,1,Wrong Answer
 zhengjinyi,C,3432000,100,Accepted
 Liuooo,B,3437000,1,Wrong Answer
-jiazhichen844,B,3437000,100,Accepted
 张恺瑄,A,3438000,50,Wrong Answer
 sunjunhao,B,3446000,1,Wrong Answer
 kjh,B,3448000,1,Wrong Answer
 MerlinLee,F,3449000,0,Time Limit Exceeded
-jiazhichen844,C,3454000,100,Accepted
 郑宇,B,3459000,1,Wrong Answer
 zhangzihan_Yuuki Asuna,B,3465000,20,Time Limit Exceeded
 许文渊,B,3471000,1,Wrong Answer
-jiazhichen844,D,3471000,100,Accepted
 武川翔,B,3478000,60,Wrong Answer
 高兴的高,E,3487000,5,Wrong Answer
 zhangce,B,3495000,100,Accepted
@@ -1747,7 +1740,6 @@ duchengzhu2008,D,7363000,0,Runtime Error
 高兴的高,B,7371000,1,Wrong Answer
 jiazijian,C,7372000,0,Wrong Answer
 qzyzcmx,B,7374000,1,Runtime Error
-jiazhichen844,G,7384000,100,Accepted
 xieruyu,F,7389000,30,Time Limit Exceeded
 Zhaozhuoxi,B,7391000,60,Time Limit Exceeded
 XUSJ,G,7395000,0,Wrong Answer
@@ -2379,7 +2371,6 @@ yangbowen,A,10279000,100,Accepted
 Harry,D,10279000,100,Accepted
 曾浩,D,10282000,30,Wrong Answer
 kqshengxuanyi,E,10283000,45,Runtime Error
-jiazhichen844,F,10292000,100,Accepted
 MerlinLee,B,10293000,100,Accepted
 蔡杨煜,B,10293000,20,Time Limit Exceeded
 ljy_xc,E,10293000,0,Wrong Answer
@@ -2575,7 +2566,7 @@ hutianshuo,G,11095000,50,Time Limit Exceeded
 金弋帆,A,11097000,20,Runtime Error
 陈邑宁,E,11101000,50,Time Limit Exceeded
 何浩鲲,E,11105000,5,Wrong Answer
-thomaswmy,H,11112000,0,Wrong Answer
+DL24niujunbo,H,11112000,0,Wrong Answer
 leiyuhao,D,11114000,0,Wrong Answer
 QZ1Z-CQR,E,11121000,45,Runtime Error
 sunjunhao,D,11126000,30,Wrong Answer
@@ -2620,7 +2611,7 @@ HLOI_3_P045,E,11268000,32,Time Limit Exceeded
 kjh,E,11272000,5,Time Limit Exceeded
 肖皓天,D,11275000,30,Wrong Answer
 XUSJ,B,11276000,20,Time Limit Exceeded
-thomaswmy,H,11282000,0,Wrong Answer
+DL24niujunbo,H,11282000,0,Wrong Answer
 qhj,G,11289000,0,Compile Error
 docxjun,E,11290000,5,Wrong Answer
 Zhaozhuoxi,E,11297000,5,Wrong Answer
@@ -2785,7 +2776,7 @@ XUSJ,F,12010000,0,Time Limit Exceeded
 leiyuhao,E,12014000,5,Wrong Answer
 kjh,E,12015000,18,Wrong Answer
 wmyr,G,12022000,10,Time Limit Exceeded
-thomaswmy,H,12029000,100,Accepted
+DL24niujunbo,H,12029000,100,Accepted
 XUSJ,F,12030000,0,Time Limit Exceeded
 luyuyang,E,12032000,45,Time Limit Exceeded
 huangweiliang,D,12036000,0,Wrong Answer
@@ -2797,7 +2788,6 @@ Huangjunrui,F,12056000,30,Time Limit Exceeded
 cyq,G,12056000,50,Time Limit Exceeded
 杨育安,E,12067000,0,Compile Error
 蔡杨煜,A,12073000,20,Wrong Answer
-jiazhichen844,H,12074000,100,Accepted
 songhaoyu,F,12077000,0,Memory Limit Exceeded
 XUSJ,F,12077000,0,Time Limit Exceeded
 liyuze,E,12077000,23,Time Limit Exceeded
